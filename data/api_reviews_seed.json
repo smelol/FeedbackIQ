@@ -1,0 +1,5930 @@
+[
+  {
+    "review_id": "api-1-35",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-13T05:17:56.744720+00:00"
+  },
+  {
+    "review_id": "api-3-43",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Julián",
+    "created_at": "2026-03-13T19:03:14.745029+00:00"
+  },
+  {
+    "review_id": "api-5-24",
+    "location_id": 5,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Carlos",
+    "created_at": "2026-03-16T01:18:51.745247+00:00"
+  },
+  {
+    "review_id": "api-13-12",
+    "location_id": 13,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Pedro",
+    "created_at": "2026-03-17T04:49:35.746910+00:00"
+  },
+  {
+    "review_id": "api-7-24",
+    "location_id": 7,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Luis",
+    "created_at": "2026-03-12T13:15:11.746131+00:00"
+  },
+  {
+    "review_id": "api-5-14",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Julián",
+    "created_at": "2026-03-17T13:47:53.745218+00:00"
+  },
+  {
+    "review_id": "api-8-23",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-18T18:12:37.746265+00:00"
+  },
+  {
+    "review_id": "api-6-27",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Carlos",
+    "created_at": "2026-03-16T02:58:20.745393+00:00"
+  },
+  {
+    "review_id": "api-15-9",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Ana",
+    "created_at": "2026-03-18T21:37:36.747173+00:00"
+  },
+  {
+    "review_id": "api-1-25",
+    "location_id": 1,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Valeria",
+    "created_at": "2026-03-13T15:15:57.744688+00:00"
+  },
+  {
+    "review_id": "api-6-40",
+    "location_id": 6,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Julián",
+    "created_at": "2026-03-15T05:59:19.745433+00:00"
+  },
+  {
+    "review_id": "api-3-10",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Luis",
+    "created_at": "2026-03-13T16:10:41.744926+00:00"
+  },
+  {
+    "review_id": "api-13-19",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Camila",
+    "created_at": "2026-03-13T18:13:37.746931+00:00"
+  },
+  {
+    "review_id": "api-6-23",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Camila",
+    "created_at": "2026-03-13T07:38:26.745381+00:00"
+  },
+  {
+    "review_id": "api-5-3",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-17T12:59:08.745183+00:00"
+  },
+  {
+    "review_id": "api-9-25",
+    "location_id": 9,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Pedro",
+    "created_at": "2026-03-16T08:57:27.746409+00:00"
+  },
+  {
+    "review_id": "api-3-23",
+    "location_id": 3,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Ana",
+    "created_at": "2026-03-18T00:14:17.744967+00:00"
+  },
+  {
+    "review_id": "api-13-28",
+    "location_id": 13,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Laura",
+    "created_at": "2026-03-14T03:41:13.746958+00:00"
+  },
+  {
+    "review_id": "api-13-14",
+    "location_id": 13,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Laura",
+    "created_at": "2026-03-16T23:27:02.746916+00:00"
+  },
+  {
+    "review_id": "api-7-25",
+    "location_id": 7,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-17T10:30:18.746134+00:00"
+  },
+  {
+    "review_id": "api-2-14",
+    "location_id": 2,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Carlos",
+    "created_at": "2026-03-12T14:25:22.744797+00:00"
+  },
+  {
+    "review_id": "api-12-35",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": null,
+    "created_at": "2026-03-17T07:41:03.746845+00:00"
+  },
+  {
+    "review_id": "api-5-8",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Pedro",
+    "created_at": "2026-03-18T01:22:22.745199+00:00"
+  },
+  {
+    "review_id": "api-6-25",
+    "location_id": 6,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": null,
+    "created_at": "2026-03-15T08:17:19.745387+00:00"
+  },
+  {
+    "review_id": "api-1-11",
+    "location_id": 1,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Julián",
+    "created_at": "2026-03-13T23:10:39.744642+00:00"
+  },
+  {
+    "review_id": "api-12-19",
+    "location_id": 12,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Laura",
+    "created_at": "2026-03-12T12:42:25.746797+00:00"
+  },
+  {
+    "review_id": "api-9-12",
+    "location_id": 9,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Pedro",
+    "created_at": "2026-03-18T22:13:54.746370+00:00"
+  },
+  {
+    "review_id": "api-4-35",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-12T10:55:34.745143+00:00"
+  },
+  {
+    "review_id": "api-5-8",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Pedro",
+    "created_at": "2026-03-18T01:22:22.745199+00:00"
+  },
+  {
+    "review_id": "api-6-35",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-17T12:08:04.745418+00:00"
+  },
+  {
+    "review_id": "api-13-23",
+    "location_id": 13,
+    "rating": 3,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-17T22:47:10.746944+00:00"
+  },
+  {
+    "review_id": "api-9-29",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Camila",
+    "created_at": "2026-03-15T01:01:27.746421+00:00"
+  },
+  {
+    "review_id": "api-8-0",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Julián",
+    "created_at": "2026-03-13T04:58:37.746196+00:00"
+  },
+  {
+    "review_id": "api-15-32",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Pedro",
+    "created_at": "2026-03-15T18:59:29.747240+00:00"
+  },
+  {
+    "review_id": "api-8-6",
+    "location_id": 8,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Luis",
+    "created_at": "2026-03-12T18:12:26.746214+00:00"
+  },
+  {
+    "review_id": "api-10-34",
+    "location_id": 10,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Luis",
+    "created_at": "2026-03-12T04:51:16.746573+00:00"
+  },
+  {
+    "review_id": "api-12-15",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": null,
+    "created_at": "2026-03-12T08:00:31.746785+00:00"
+  },
+  {
+    "review_id": "api-3-38",
+    "location_id": 3,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Julián",
+    "created_at": "2026-03-14T15:18:11.745013+00:00"
+  },
+  {
+    "review_id": "api-1-32",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-13T07:21:18.744710+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-6",
+    "location_id": 11,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Valeria",
+    "created_at": "2026-03-12T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-2-20",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": null,
+    "created_at": "2026-03-18T08:42:53.744817+00:00"
+  },
+  {
+    "review_id": "api-7-11",
+    "location_id": 7,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": "Daniel",
+    "created_at": "2026-03-17T21:48:33.745483+00:00"
+  },
+  {
+    "review_id": "api-10-27",
+    "location_id": 10,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Andrés",
+    "created_at": "2026-03-18T02:04:04.746553+00:00"
+  },
+  {
+    "review_id": "api-1-31",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Sofía",
+    "created_at": "2026-03-16T14:02:08.744707+00:00"
+  },
+  {
+    "review_id": "api-10-28",
+    "location_id": 10,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Sofía",
+    "created_at": "2026-03-17T19:34:36.746556+00:00"
+  },
+  {
+    "review_id": "api-9-41",
+    "location_id": 9,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Marta",
+    "created_at": "2026-03-17T12:30:58.746457+00:00"
+  },
+  {
+    "review_id": "api-7-2",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Marta",
+    "created_at": "2026-03-17T18:30:28.745456+00:00"
+  },
+  {
+    "review_id": "api-15-15",
+    "location_id": 15,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": null,
+    "created_at": "2026-03-12T02:03:46.747191+00:00"
+  },
+  {
+    "review_id": "api-12-40",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Daniel",
+    "created_at": "2026-03-12T15:51:38.746860+00:00"
+  },
+  {
+    "review_id": "api-13-35",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Andrés",
+    "created_at": "2026-03-14T07:39:07.746979+00:00"
+  },
+  {
+    "review_id": "api-4-33",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-16T07:33:51.745137+00:00"
+  },
+  {
+    "review_id": "api-5-26",
+    "location_id": 5,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Carlos",
+    "created_at": "2026-03-12T11:18:03.745254+00:00"
+  },
+  {
+    "review_id": "api-10-41",
+    "location_id": 10,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Valeria",
+    "created_at": "2026-03-14T15:32:59.746594+00:00"
+  },
+  {
+    "review_id": "api-10-36",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Marta",
+    "created_at": "2026-03-13T19:03:19.746579+00:00"
+  },
+  {
+    "review_id": "api-12-32",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-18T18:36:34.746836+00:00"
+  },
+  {
+    "review_id": "api-11-43",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Camila",
+    "created_at": "2026-03-13T11:19:11.746734+00:00"
+  },
+  {
+    "review_id": "api-6-3",
+    "location_id": 6,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Julián",
+    "created_at": "2026-03-15T04:44:23.745321+00:00"
+  },
+  {
+    "review_id": "api-11-16",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-13T06:39:30.746655+00:00"
+  },
+  {
+    "review_id": "api-6-8",
+    "location_id": 6,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Paula",
+    "created_at": "2026-03-18T15:54:54.745336+00:00"
+  },
+  {
+    "review_id": "api-11-1",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Andrés",
+    "created_at": "2026-03-12T02:51:45.746610+00:00"
+  },
+  {
+    "review_id": "api-14-21",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Paula",
+    "created_at": "2026-03-14T08:27:19.747073+00:00"
+  },
+  {
+    "review_id": "api-10-41",
+    "location_id": 10,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Valeria",
+    "created_at": "2026-03-14T15:32:59.746594+00:00"
+  },
+  {
+    "review_id": "api-3-8",
+    "location_id": 3,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-12T06:14:51.744920+00:00"
+  },
+  {
+    "review_id": "api-4-30",
+    "location_id": 4,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Ana",
+    "created_at": "2026-03-12T08:40:25.745127+00:00"
+  },
+  {
+    "review_id": "api-7-8",
+    "location_id": 7,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-14T12:40:44.745474+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-2",
+    "location_id": 11,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Andrés",
+    "created_at": "2026-03-14T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-8-25",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Daniel",
+    "created_at": "2026-03-14T18:44:52.746271+00:00"
+  },
+  {
+    "review_id": "api-10-5",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Marta",
+    "created_at": "2026-03-16T09:46:52.746485+00:00"
+  },
+  {
+    "review_id": "api-7-10",
+    "location_id": 7,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-16T22:35:47.745480+00:00"
+  },
+  {
+    "review_id": "api-15-44",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Camila",
+    "created_at": "2026-03-14T07:53:16.747276+00:00"
+  },
+  {
+    "review_id": "api-14-27",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Camila",
+    "created_at": "2026-03-16T19:07:40.747091+00:00"
+  },
+  {
+    "review_id": "api-9-36",
+    "location_id": 9,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Ana",
+    "created_at": "2026-03-16T19:10:24.746442+00:00"
+  },
+  {
+    "review_id": "api-5-19",
+    "location_id": 5,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Ana",
+    "created_at": "2026-03-13T18:08:25.745232+00:00"
+  },
+  {
+    "review_id": "api-9-7",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Ana",
+    "created_at": "2026-03-14T06:09:23.746355+00:00"
+  },
+  {
+    "review_id": "api-12-6",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Daniel",
+    "created_at": "2026-03-16T20:44:27.746758+00:00"
+  },
+  {
+    "review_id": "api-14-36",
+    "location_id": 14,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Marta",
+    "created_at": "2026-03-17T00:10:48.747117+00:00"
+  },
+  {
+    "review_id": "api-8-29",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Paula",
+    "created_at": "2026-03-17T00:33:24.746283+00:00"
+  },
+  {
+    "review_id": "api-11-28",
+    "location_id": 11,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Camila",
+    "created_at": "2026-03-15T07:34:40.746690+00:00"
+  },
+  {
+    "review_id": "api-15-30",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Daniel",
+    "created_at": "2026-03-13T17:14:34.747234+00:00"
+  },
+  {
+    "review_id": "api-10-9",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Paula",
+    "created_at": "2026-03-15T16:13:45.746498+00:00"
+  },
+  {
+    "review_id": "api-9-35",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Paula",
+    "created_at": "2026-03-15T02:25:04.746439+00:00"
+  },
+  {
+    "review_id": "api-9-33",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Paula",
+    "created_at": "2026-03-18T18:18:50.746433+00:00"
+  },
+  {
+    "review_id": "api-6-43",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Julián",
+    "created_at": "2026-03-14T05:17:16.745442+00:00"
+  },
+  {
+    "review_id": "api-5-17",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Carlos",
+    "created_at": "2026-03-17T06:17:06.745226+00:00"
+  },
+  {
+    "review_id": "api-8-20",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Daniel",
+    "created_at": "2026-03-14T05:38:58.746256+00:00"
+  },
+  {
+    "review_id": "api-12-38",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Camila",
+    "created_at": "2026-03-18T16:50:56.746854+00:00"
+  },
+  {
+    "review_id": "api-13-5",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Luis",
+    "created_at": "2026-03-13T07:04:07.746890+00:00"
+  },
+  {
+    "review_id": "api-12-20",
+    "location_id": 12,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Marta",
+    "created_at": "2026-03-13T14:25:47.746800+00:00"
+  },
+  {
+    "review_id": "api-5-32",
+    "location_id": 5,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Pedro",
+    "created_at": "2026-03-15T04:52:18.745272+00:00"
+  },
+  {
+    "review_id": "api-11-29",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Andrés",
+    "created_at": "2026-03-17T07:35:38.746693+00:00"
+  },
+  {
+    "review_id": "api-14-17",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Marta",
+    "created_at": "2026-03-16T22:45:06.747060+00:00"
+  },
+  {
+    "review_id": "api-10-15",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Carlos",
+    "created_at": "2026-03-18T21:17:40.746516+00:00"
+  },
+  {
+    "review_id": "api-8-10",
+    "location_id": 8,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Sofía",
+    "created_at": "2026-03-13T11:13:20.746225+00:00"
+  },
+  {
+    "review_id": "api-14-1",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Carlos",
+    "created_at": "2026-03-14T09:00:37.747012+00:00"
+  },
+  {
+    "review_id": "api-15-6",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-16T01:50:04.747163+00:00"
+  },
+  {
+    "review_id": "api-10-37",
+    "location_id": 10,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Camila",
+    "created_at": "2026-03-18T16:11:07.746582+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-5",
+    "location_id": 11,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Ana",
+    "created_at": "2026-03-16T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-7-17",
+    "location_id": 7,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Sofía",
+    "created_at": "2026-03-13T10:18:01.745502+00:00"
+  },
+  {
+    "review_id": "api-4-14",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Andrés",
+    "created_at": "2026-03-12T12:32:41.745079+00:00"
+  },
+  {
+    "review_id": "api-15-37",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Camila",
+    "created_at": "2026-03-16T07:09:12.747255+00:00"
+  },
+  {
+    "review_id": "api-12-0",
+    "location_id": 12,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Valeria",
+    "created_at": "2026-03-18T03:43:17.746740+00:00"
+  },
+  {
+    "review_id": "api-4-35",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-12T10:55:34.745143+00:00"
+  },
+  {
+    "review_id": "api-7-42",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": "Carlos",
+    "created_at": "2026-03-14T02:32:37.746187+00:00"
+  },
+  {
+    "review_id": "api-10-3",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-13T08:24:38.746479+00:00"
+  },
+  {
+    "review_id": "api-8-35",
+    "location_id": 8,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Pedro",
+    "created_at": "2026-03-14T16:16:43.746302+00:00"
+  },
+  {
+    "review_id": "api-spike-2-2",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La comida llegó fría y tardaron demasiado",
+    "author": "Luis",
+    "created_at": "2026-03-18T16:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-10-44",
+    "location_id": 10,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": null,
+    "created_at": "2026-03-16T13:23:15.746604+00:00"
+  },
+  {
+    "review_id": "api-14-44",
+    "location_id": 14,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Luis",
+    "created_at": "2026-03-12T01:05:49.747140+00:00"
+  },
+  {
+    "review_id": "api-8-14",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Pedro",
+    "created_at": "2026-03-14T14:40:49.746238+00:00"
+  },
+  {
+    "review_id": "api-6-9",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Luis",
+    "created_at": "2026-03-14T15:39:35.745339+00:00"
+  },
+  {
+    "review_id": "api-15-31",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Luis",
+    "created_at": "2026-03-15T23:35:19.747237+00:00"
+  },
+  {
+    "review_id": "api-15-29",
+    "location_id": 15,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Paula",
+    "created_at": "2026-03-18T08:35:33.747232+00:00"
+  },
+  {
+    "review_id": "api-15-4",
+    "location_id": 15,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Valeria",
+    "created_at": "2026-03-13T19:09:16.747156+00:00"
+  },
+  {
+    "review_id": "api-8-28",
+    "location_id": 8,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Pedro",
+    "created_at": "2026-03-14T06:02:47.746279+00:00"
+  },
+  {
+    "review_id": "api-12-3",
+    "location_id": 12,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": null,
+    "created_at": "2026-03-14T03:27:50.746749+00:00"
+  },
+  {
+    "review_id": "api-7-29",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": null,
+    "created_at": "2026-03-18T13:18:16.746146+00:00"
+  },
+  {
+    "review_id": "api-11-23",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Daniel",
+    "created_at": "2026-03-13T12:20:34.746676+00:00"
+  },
+  {
+    "review_id": "api-1-0",
+    "location_id": 1,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Luis",
+    "created_at": "2026-03-12T13:41:00.744590+00:00"
+  },
+  {
+    "review_id": "api-4-43",
+    "location_id": 4,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-13T09:08:53.745167+00:00"
+  },
+  {
+    "review_id": "api-4-20",
+    "location_id": 4,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-12T16:23:59.745097+00:00"
+  },
+  {
+    "review_id": "api-10-42",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Julián",
+    "created_at": "2026-03-14T19:52:23.746598+00:00"
+  },
+  {
+    "review_id": "api-13-25",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Ana",
+    "created_at": "2026-03-18T21:38:43.746949+00:00"
+  },
+  {
+    "review_id": "api-6-4",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-12T06:26:56.745324+00:00"
+  },
+  {
+    "review_id": "api-10-10",
+    "location_id": 10,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Laura",
+    "created_at": "2026-03-15T00:04:48.746501+00:00"
+  },
+  {
+    "review_id": "api-6-20",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Camila",
+    "created_at": "2026-03-12T20:45:48.745373+00:00"
+  },
+  {
+    "review_id": "api-15-0",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-14T06:16:54.747144+00:00"
+  },
+  {
+    "review_id": "api-4-42",
+    "location_id": 4,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Luis",
+    "created_at": "2026-03-14T10:17:55.745164+00:00"
+  },
+  {
+    "review_id": "api-3-37",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-13T11:13:28.745010+00:00"
+  },
+  {
+    "review_id": "api-4-22",
+    "location_id": 4,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Pedro",
+    "created_at": "2026-03-15T06:28:37.745103+00:00"
+  },
+  {
+    "review_id": "api-3-27",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Camila",
+    "created_at": "2026-03-15T08:01:10.744979+00:00"
+  },
+  {
+    "review_id": "api-7-28",
+    "location_id": 7,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Valeria",
+    "created_at": "2026-03-13T15:35:38.746143+00:00"
+  },
+  {
+    "review_id": "api-1-3",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-16T03:57:54.744613+00:00"
+  },
+  {
+    "review_id": "api-11-24",
+    "location_id": 11,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Paula",
+    "created_at": "2026-03-15T16:13:39.746678+00:00"
+  },
+  {
+    "review_id": "api-10-12",
+    "location_id": 10,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": null,
+    "created_at": "2026-03-12T05:51:52.746507+00:00"
+  },
+  {
+    "review_id": "api-8-38",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-17T13:21:46.746313+00:00"
+  },
+  {
+    "review_id": "api-8-9",
+    "location_id": 8,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": "Carlos",
+    "created_at": "2026-03-14T05:17:35.746222+00:00"
+  },
+  {
+    "review_id": "api-4-12",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Sofía",
+    "created_at": "2026-03-15T17:52:35.745073+00:00"
+  },
+  {
+    "review_id": "api-6-13",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Ana",
+    "created_at": "2026-03-18T17:16:24.745351+00:00"
+  },
+  {
+    "review_id": "api-10-24",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Marta",
+    "created_at": "2026-03-12T16:47:09.746544+00:00"
+  },
+  {
+    "review_id": "api-3-0",
+    "location_id": 3,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Daniel",
+    "created_at": "2026-03-13T15:07:49.744895+00:00"
+  },
+  {
+    "review_id": "api-3-21",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Luis",
+    "created_at": "2026-03-13T22:49:40.744961+00:00"
+  },
+  {
+    "review_id": "api-1-41",
+    "location_id": 1,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Camila",
+    "created_at": "2026-03-12T00:30:20.744739+00:00"
+  },
+  {
+    "review_id": "api-8-43",
+    "location_id": 8,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Camila",
+    "created_at": "2026-03-17T03:35:25.746327+00:00"
+  },
+  {
+    "review_id": "api-4-41",
+    "location_id": 4,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Daniel",
+    "created_at": "2026-03-17T05:54:44.745161+00:00"
+  },
+  {
+    "review_id": "api-11-31",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Daniel",
+    "created_at": "2026-03-18T20:17:12.746699+00:00"
+  },
+  {
+    "review_id": "api-8-37",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-17T16:54:25.746309+00:00"
+  },
+  {
+    "review_id": "api-5-41",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Camila",
+    "created_at": "2026-03-18T15:05:33.745299+00:00"
+  },
+  {
+    "review_id": "api-2-5",
+    "location_id": 2,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Andrés",
+    "created_at": "2026-03-14T08:36:41.744770+00:00"
+  },
+  {
+    "review_id": "api-7-43",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Pedro",
+    "created_at": "2026-03-13T17:49:00.746190+00:00"
+  },
+  {
+    "review_id": "api-6-33",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Camila",
+    "created_at": "2026-03-17T21:26:47.745411+00:00"
+  },
+  {
+    "review_id": "api-5-21",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Luis",
+    "created_at": "2026-03-18T20:45:29.745238+00:00"
+  },
+  {
+    "review_id": "api-3-19",
+    "location_id": 3,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": "Sofía",
+    "created_at": "2026-03-14T02:39:24.744954+00:00"
+  },
+  {
+    "review_id": "api-5-42",
+    "location_id": 5,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Julián",
+    "created_at": "2026-03-16T19:35:05.745302+00:00"
+  },
+  {
+    "review_id": "api-7-40",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Valeria",
+    "created_at": "2026-03-14T08:39:43.746181+00:00"
+  },
+  {
+    "review_id": "api-8-3",
+    "location_id": 8,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Julián",
+    "created_at": "2026-03-12T14:55:36.746205+00:00"
+  },
+  {
+    "review_id": "api-6-36",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Daniel",
+    "created_at": "2026-03-16T03:01:41.745421+00:00"
+  },
+  {
+    "review_id": "api-7-36",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Marta",
+    "created_at": "2026-03-17T16:51:18.746167+00:00"
+  },
+  {
+    "review_id": "api-3-44",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Sofía",
+    "created_at": "2026-03-16T06:58:10.745032+00:00"
+  },
+  {
+    "review_id": "api-12-4",
+    "location_id": 12,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Daniel",
+    "created_at": "2026-03-13T09:42:21.746752+00:00"
+  },
+  {
+    "review_id": "api-6-28",
+    "location_id": 6,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": null,
+    "created_at": "2026-03-15T05:17:55.745396+00:00"
+  },
+  {
+    "review_id": "api-10-38",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-18T04:04:35.746585+00:00"
+  },
+  {
+    "review_id": "api-6-41",
+    "location_id": 6,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Andrés",
+    "created_at": "2026-03-18T07:49:32.745436+00:00"
+  },
+  {
+    "review_id": "api-9-2",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Camila",
+    "created_at": "2026-03-17T03:46:56.746339+00:00"
+  },
+  {
+    "review_id": "api-11-44",
+    "location_id": 11,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Carlos",
+    "created_at": "2026-03-14T00:04:41.746737+00:00"
+  },
+  {
+    "review_id": "api-12-24",
+    "location_id": 12,
+    "rating": 1,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": null,
+    "created_at": "2026-03-13T22:40:28.746811+00:00"
+  },
+  {
+    "review_id": "api-3-31",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Ana",
+    "created_at": "2026-03-15T12:43:09.744992+00:00"
+  },
+  {
+    "review_id": "api-11-10",
+    "location_id": 11,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Marta",
+    "created_at": "2026-03-17T15:25:41.746637+00:00"
+  },
+  {
+    "review_id": "api-12-23",
+    "location_id": 12,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Sofía",
+    "created_at": "2026-03-18T05:21:00.746808+00:00"
+  },
+  {
+    "review_id": "api-4-27",
+    "location_id": 4,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Valeria",
+    "created_at": "2026-03-15T03:26:01.745118+00:00"
+  },
+  {
+    "review_id": "api-10-4",
+    "location_id": 10,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-13T03:18:12.746482+00:00"
+  },
+  {
+    "review_id": "api-2-24",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Sofía",
+    "created_at": "2026-03-15T19:39:17.744830+00:00"
+  },
+  {
+    "review_id": "api-9-8",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-12T07:01:51.746358+00:00"
+  },
+  {
+    "review_id": "api-9-6",
+    "location_id": 9,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Paula",
+    "created_at": "2026-03-14T01:55:46.746352+00:00"
+  },
+  {
+    "review_id": "api-4-40",
+    "location_id": 4,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Paula",
+    "created_at": "2026-03-13T20:18:00.745159+00:00"
+  },
+  {
+    "review_id": "api-11-36",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Paula",
+    "created_at": "2026-03-14T16:26:50.746714+00:00"
+  },
+  {
+    "review_id": "api-9-18",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Daniel",
+    "created_at": "2026-03-13T20:25:10.746388+00:00"
+  },
+  {
+    "review_id": "api-14-23",
+    "location_id": 14,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Daniel",
+    "created_at": "2026-03-12T00:57:34.747079+00:00"
+  },
+  {
+    "review_id": "api-9-30",
+    "location_id": 9,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Laura",
+    "created_at": "2026-03-14T21:00:35.746424+00:00"
+  },
+  {
+    "review_id": "api-7-40",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Valeria",
+    "created_at": "2026-03-14T08:39:43.746181+00:00"
+  },
+  {
+    "review_id": "api-11-21",
+    "location_id": 11,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Sofía",
+    "created_at": "2026-03-17T23:03:44.746670+00:00"
+  },
+  {
+    "review_id": "api-3-7",
+    "location_id": 3,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Valeria",
+    "created_at": "2026-03-14T20:41:59.744917+00:00"
+  },
+  {
+    "review_id": "api-11-0",
+    "location_id": 11,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-13T05:11:07.746607+00:00"
+  },
+  {
+    "review_id": "api-1-8",
+    "location_id": 1,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Sofía",
+    "created_at": "2026-03-12T02:02:23.744630+00:00"
+  },
+  {
+    "review_id": "api-14-8",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Paula",
+    "created_at": "2026-03-16T10:24:17.747033+00:00"
+  },
+  {
+    "review_id": "api-6-18",
+    "location_id": 6,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Andrés",
+    "created_at": "2026-03-17T20:09:25.745366+00:00"
+  },
+  {
+    "review_id": "api-9-39",
+    "location_id": 9,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Ana",
+    "created_at": "2026-03-15T01:00:08.746450+00:00"
+  },
+  {
+    "review_id": "api-4-28",
+    "location_id": 4,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Julián",
+    "created_at": "2026-03-17T00:23:25.745121+00:00"
+  },
+  {
+    "review_id": "api-11-27",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-18T12:36:00.746687+00:00"
+  },
+  {
+    "review_id": "api-3-30",
+    "location_id": 3,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-13T05:34:03.744988+00:00"
+  },
+  {
+    "review_id": "api-8-5",
+    "location_id": 8,
+    "rating": 3,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Pedro",
+    "created_at": "2026-03-12T15:23:19.746211+00:00"
+  },
+  {
+    "review_id": "api-10-8",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Laura",
+    "created_at": "2026-03-15T03:02:15.746494+00:00"
+  },
+  {
+    "review_id": "api-15-2",
+    "location_id": 15,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Carlos",
+    "created_at": "2026-03-15T17:52:23.747150+00:00"
+  },
+  {
+    "review_id": "api-11-11",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-14T11:17:43.746639+00:00"
+  },
+  {
+    "review_id": "api-6-44",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Luis",
+    "created_at": "2026-03-16T03:10:02.745446+00:00"
+  },
+  {
+    "review_id": "api-1-29",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-13T06:38:18.744701+00:00"
+  },
+  {
+    "review_id": "api-13-41",
+    "location_id": 13,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": null,
+    "created_at": "2026-03-17T08:12:30.746997+00:00"
+  },
+  {
+    "review_id": "api-13-2",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-13T03:21:26.746881+00:00"
+  },
+  {
+    "review_id": "api-6-16",
+    "location_id": 6,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": null,
+    "created_at": "2026-03-18T01:48:41.745360+00:00"
+  },
+  {
+    "review_id": "api-12-27",
+    "location_id": 12,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Marta",
+    "created_at": "2026-03-18T20:15:37.746821+00:00"
+  },
+  {
+    "review_id": "api-12-5",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Pedro",
+    "created_at": "2026-03-13T10:50:28.746755+00:00"
+  },
+  {
+    "review_id": "api-13-37",
+    "location_id": 13,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Julián",
+    "created_at": "2026-03-15T07:58:34.746985+00:00"
+  },
+  {
+    "review_id": "api-14-43",
+    "location_id": 14,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": "Luis",
+    "created_at": "2026-03-17T11:46:38.747137+00:00"
+  },
+  {
+    "review_id": "api-2-36",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": null,
+    "created_at": "2026-03-17T19:17:36.744866+00:00"
+  },
+  {
+    "review_id": "api-5-43",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Pedro",
+    "created_at": "2026-03-17T19:41:27.745305+00:00"
+  },
+  {
+    "review_id": "api-9-28",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Andrés",
+    "created_at": "2026-03-17T09:04:00.746418+00:00"
+  },
+  {
+    "review_id": "api-6-5",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Valeria",
+    "created_at": "2026-03-12T20:10:03.745326+00:00"
+  },
+  {
+    "review_id": "api-2-24",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Sofía",
+    "created_at": "2026-03-15T19:39:17.744830+00:00"
+  },
+  {
+    "review_id": "api-10-0",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Paula",
+    "created_at": "2026-03-17T11:10:29.746470+00:00"
+  },
+  {
+    "review_id": "api-5-16",
+    "location_id": 5,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Carlos",
+    "created_at": "2026-03-18T15:22:24.745223+00:00"
+  },
+  {
+    "review_id": "api-3-11",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-16T02:17:11.744928+00:00"
+  },
+  {
+    "review_id": "api-5-34",
+    "location_id": 5,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Camila",
+    "created_at": "2026-03-18T20:01:34.745278+00:00"
+  },
+  {
+    "review_id": "api-6-34",
+    "location_id": 6,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Luis",
+    "created_at": "2026-03-12T22:02:32.745414+00:00"
+  },
+  {
+    "review_id": "api-2-1",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Daniel",
+    "created_at": "2026-03-15T07:02:37.744756+00:00"
+  },
+  {
+    "review_id": "api-14-26",
+    "location_id": 14,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": "Valeria",
+    "created_at": "2026-03-12T13:21:03.747087+00:00"
+  },
+  {
+    "review_id": "api-9-27",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Daniel",
+    "created_at": "2026-03-13T11:59:12.746415+00:00"
+  },
+  {
+    "review_id": "api-5-39",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Marta",
+    "created_at": "2026-03-14T01:56:51.745293+00:00"
+  },
+  {
+    "review_id": "api-12-11",
+    "location_id": 12,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-15T00:47:31.746773+00:00"
+  },
+  {
+    "review_id": "api-12-21",
+    "location_id": 12,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Paula",
+    "created_at": "2026-03-16T12:59:23.746803+00:00"
+  },
+  {
+    "review_id": "api-6-21",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Laura",
+    "created_at": "2026-03-15T22:33:50.745376+00:00"
+  },
+  {
+    "review_id": "api-14-22",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": null,
+    "created_at": "2026-03-17T23:40:49.747076+00:00"
+  },
+  {
+    "review_id": "api-3-29",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Julián",
+    "created_at": "2026-03-16T11:08:03.744986+00:00"
+  },
+  {
+    "review_id": "api-12-29",
+    "location_id": 12,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Luis",
+    "created_at": "2026-03-14T00:00:34.746826+00:00"
+  },
+  {
+    "review_id": "api-8-36",
+    "location_id": 8,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Andrés",
+    "created_at": "2026-03-17T17:25:00.746305+00:00"
+  },
+  {
+    "review_id": "api-9-16",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Ana",
+    "created_at": "2026-03-17T09:51:59.746382+00:00"
+  },
+  {
+    "review_id": "api-11-16",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-13T06:39:30.746655+00:00"
+  },
+  {
+    "review_id": "api-5-43",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Pedro",
+    "created_at": "2026-03-17T19:41:27.745305+00:00"
+  },
+  {
+    "review_id": "api-12-41",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-13T00:32:56.746862+00:00"
+  },
+  {
+    "review_id": "api-14-31",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-15T08:11:39.747102+00:00"
+  },
+  {
+    "review_id": "api-1-18",
+    "location_id": 1,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": null,
+    "created_at": "2026-03-17T20:46:38.744666+00:00"
+  },
+  {
+    "review_id": "api-6-11",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Luis",
+    "created_at": "2026-03-18T18:00:31.745346+00:00"
+  },
+  {
+    "review_id": "api-15-16",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Valeria",
+    "created_at": "2026-03-18T13:25:50.747194+00:00"
+  },
+  {
+    "review_id": "api-14-18",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-18T08:27:59.747063+00:00"
+  },
+  {
+    "review_id": "api-8-4",
+    "location_id": 8,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Luis",
+    "created_at": "2026-03-13T04:38:09.746208+00:00"
+  },
+  {
+    "review_id": "api-10-17",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Luis",
+    "created_at": "2026-03-15T07:26:35.746522+00:00"
+  },
+  {
+    "review_id": "api-2-29",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": "Marta",
+    "created_at": "2026-03-13T05:01:39.744845+00:00"
+  },
+  {
+    "review_id": "api-1-26",
+    "location_id": 1,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Carlos",
+    "created_at": "2026-03-18T19:18:23.744691+00:00"
+  },
+  {
+    "review_id": "api-5-38",
+    "location_id": 5,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Laura",
+    "created_at": "2026-03-12T22:22:26.745289+00:00"
+  },
+  {
+    "review_id": "api-9-19",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-17T10:43:21.746391+00:00"
+  },
+  {
+    "review_id": "api-12-26",
+    "location_id": 12,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-17T16:54:32.746817+00:00"
+  },
+  {
+    "review_id": "api-7-26",
+    "location_id": 7,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Marta",
+    "created_at": "2026-03-15T19:04:58.746137+00:00"
+  },
+  {
+    "review_id": "api-10-43",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Daniel",
+    "created_at": "2026-03-17T05:37:56.746601+00:00"
+  },
+  {
+    "review_id": "api-4-44",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Carlos",
+    "created_at": "2026-03-15T11:26:16.745171+00:00"
+  },
+  {
+    "review_id": "api-2-17",
+    "location_id": 2,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Julián",
+    "created_at": "2026-03-13T07:04:35.744807+00:00"
+  },
+  {
+    "review_id": "api-11-25",
+    "location_id": 11,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Laura",
+    "created_at": "2026-03-18T01:38:46.746681+00:00"
+  },
+  {
+    "review_id": "api-2-17",
+    "location_id": 2,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Julián",
+    "created_at": "2026-03-13T07:04:35.744807+00:00"
+  },
+  {
+    "review_id": "api-11-37",
+    "location_id": 11,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Camila",
+    "created_at": "2026-03-12T11:09:42.746717+00:00"
+  },
+  {
+    "review_id": "api-4-29",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Marta",
+    "created_at": "2026-03-17T05:24:14.745124+00:00"
+  },
+  {
+    "review_id": "api-12-22",
+    "location_id": 12,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-13T20:55:34.746805+00:00"
+  },
+  {
+    "review_id": "api-10-43",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Daniel",
+    "created_at": "2026-03-17T05:37:56.746601+00:00"
+  },
+  {
+    "review_id": "api-9-38",
+    "location_id": 9,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Carlos",
+    "created_at": "2026-03-17T21:38:38.746447+00:00"
+  },
+  {
+    "review_id": "api-12-39",
+    "location_id": 12,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": null,
+    "created_at": "2026-03-18T08:00:00.746856+00:00"
+  },
+  {
+    "review_id": "api-12-30",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Andrés",
+    "created_at": "2026-03-12T01:57:26.746829+00:00"
+  },
+  {
+    "review_id": "api-7-37",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Luis",
+    "created_at": "2026-03-13T03:58:56.746171+00:00"
+  },
+  {
+    "review_id": "api-13-11",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Laura",
+    "created_at": "2026-03-14T14:28:50.746907+00:00"
+  },
+  {
+    "review_id": "api-3-39",
+    "location_id": 3,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-12T02:06:51.745016+00:00"
+  },
+  {
+    "review_id": "api-12-41",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-13T00:32:56.746862+00:00"
+  },
+  {
+    "review_id": "api-1-42",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Sofía",
+    "created_at": "2026-03-13T14:04:17.744742+00:00"
+  },
+  {
+    "review_id": "api-5-11",
+    "location_id": 5,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": null,
+    "created_at": "2026-03-15T13:46:53.745208+00:00"
+  },
+  {
+    "review_id": "api-13-9",
+    "location_id": 13,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Paula",
+    "created_at": "2026-03-15T21:24:03.746901+00:00"
+  },
+  {
+    "review_id": "api-11-19",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Pedro",
+    "created_at": "2026-03-18T13:05:18.746664+00:00"
+  },
+  {
+    "review_id": "api-11-44",
+    "location_id": 11,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Carlos",
+    "created_at": "2026-03-14T00:04:41.746737+00:00"
+  },
+  {
+    "review_id": "api-8-22",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Ana",
+    "created_at": "2026-03-13T02:09:47.746262+00:00"
+  },
+  {
+    "review_id": "api-5-29",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Laura",
+    "created_at": "2026-03-14T01:02:04.745263+00:00"
+  },
+  {
+    "review_id": "api-10-1",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Luis",
+    "created_at": "2026-03-12T21:59:19.746473+00:00"
+  },
+  {
+    "review_id": "api-10-35",
+    "location_id": 10,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Luis",
+    "created_at": "2026-03-14T00:00:23.746576+00:00"
+  },
+  {
+    "review_id": "api-7-9",
+    "location_id": 7,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Ana",
+    "created_at": "2026-03-12T05:03:59.745477+00:00"
+  },
+  {
+    "review_id": "api-7-32",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-15T12:59:43.746155+00:00"
+  },
+  {
+    "review_id": "api-14-21",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Paula",
+    "created_at": "2026-03-14T08:27:19.747073+00:00"
+  },
+  {
+    "review_id": "api-2-18",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Sofía",
+    "created_at": "2026-03-15T09:56:11.744811+00:00"
+  },
+  {
+    "review_id": "api-14-38",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Camila",
+    "created_at": "2026-03-16T15:38:36.747123+00:00"
+  },
+  {
+    "review_id": "api-6-1",
+    "location_id": 6,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Marta",
+    "created_at": "2026-03-17T13:02:59.745315+00:00"
+  },
+  {
+    "review_id": "api-3-41",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-16T22:15:10.745023+00:00"
+  },
+  {
+    "review_id": "api-6-17",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-12T00:42:00.745363+00:00"
+  },
+  {
+    "review_id": "api-10-16",
+    "location_id": 10,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": null,
+    "created_at": "2026-03-18T17:59:18.746519+00:00"
+  },
+  {
+    "review_id": "api-12-36",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Carlos",
+    "created_at": "2026-03-18T12:42:32.746848+00:00"
+  },
+  {
+    "review_id": "api-3-1",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-15T22:45:31.744898+00:00"
+  },
+  {
+    "review_id": "api-1-36",
+    "location_id": 1,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Carlos",
+    "created_at": "2026-03-14T18:12:31.744723+00:00"
+  },
+  {
+    "review_id": "api-14-25",
+    "location_id": 14,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-12T11:11:19.747085+00:00"
+  },
+  {
+    "review_id": "api-15-42",
+    "location_id": 15,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Sofía",
+    "created_at": "2026-03-17T19:31:47.747268+00:00"
+  },
+  {
+    "review_id": "api-13-4",
+    "location_id": 13,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Pedro",
+    "created_at": "2026-03-15T06:39:56.746887+00:00"
+  },
+  {
+    "review_id": "api-4-8",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-18T07:47:06.745060+00:00"
+  },
+  {
+    "review_id": "api-1-34",
+    "location_id": 1,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": null,
+    "created_at": "2026-03-14T23:32:07.744717+00:00"
+  },
+  {
+    "review_id": "api-14-36",
+    "location_id": 14,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Marta",
+    "created_at": "2026-03-17T00:10:48.747117+00:00"
+  },
+  {
+    "review_id": "api-14-28",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Valeria",
+    "created_at": "2026-03-15T04:12:17.747094+00:00"
+  },
+  {
+    "review_id": "api-13-39",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-17T21:42:04.746990+00:00"
+  },
+  {
+    "review_id": "api-12-33",
+    "location_id": 12,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Valeria",
+    "created_at": "2026-03-16T04:03:05.746839+00:00"
+  },
+  {
+    "review_id": "api-10-19",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Laura",
+    "created_at": "2026-03-14T04:22:54.746528+00:00"
+  },
+  {
+    "review_id": "api-2-3",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Ana",
+    "created_at": "2026-03-12T07:52:33.744763+00:00"
+  },
+  {
+    "review_id": "api-6-30",
+    "location_id": 6,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Pedro",
+    "created_at": "2026-03-15T14:50:35.745402+00:00"
+  },
+  {
+    "review_id": "api-13-38",
+    "location_id": 13,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Julián",
+    "created_at": "2026-03-13T03:18:30.746987+00:00"
+  },
+  {
+    "review_id": "api-7-10",
+    "location_id": 7,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-16T22:35:47.745480+00:00"
+  },
+  {
+    "review_id": "api-8-32",
+    "location_id": 8,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Ana",
+    "created_at": "2026-03-14T15:14:45.746293+00:00"
+  },
+  {
+    "review_id": "api-13-13",
+    "location_id": 13,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Luis",
+    "created_at": "2026-03-14T07:48:03.746913+00:00"
+  },
+  {
+    "review_id": "api-1-7",
+    "location_id": 1,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Pedro",
+    "created_at": "2026-03-15T01:24:02.744627+00:00"
+  },
+  {
+    "review_id": "api-8-21",
+    "location_id": 8,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Camila",
+    "created_at": "2026-03-13T17:58:58.746259+00:00"
+  },
+  {
+    "review_id": "api-15-8",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Camila",
+    "created_at": "2026-03-17T08:00:45.747169+00:00"
+  },
+  {
+    "review_id": "api-7-20",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Ana",
+    "created_at": "2026-03-16T03:20:51.746116+00:00"
+  },
+  {
+    "review_id": "api-13-21",
+    "location_id": 13,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Daniel",
+    "created_at": "2026-03-16T17:40:45.746938+00:00"
+  },
+  {
+    "review_id": "api-1-38",
+    "location_id": 1,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Valeria",
+    "created_at": "2026-03-13T23:19:35.744729+00:00"
+  },
+  {
+    "review_id": "api-13-26",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Laura",
+    "created_at": "2026-03-18T21:38:06.746952+00:00"
+  },
+  {
+    "review_id": "api-9-14",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Luis",
+    "created_at": "2026-03-16T15:39:52.746376+00:00"
+  },
+  {
+    "review_id": "api-5-18",
+    "location_id": 5,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-18T00:51:17.745229+00:00"
+  },
+  {
+    "review_id": "api-1-20",
+    "location_id": 1,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Carlos",
+    "created_at": "2026-03-17T19:07:56.744672+00:00"
+  },
+  {
+    "review_id": "api-5-40",
+    "location_id": 5,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Paula",
+    "created_at": "2026-03-17T12:09:35.745296+00:00"
+  },
+  {
+    "review_id": "api-15-38",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Valeria",
+    "created_at": "2026-03-18T08:42:16.747257+00:00"
+  },
+  {
+    "review_id": "api-8-8",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-12T21:06:41.746220+00:00"
+  },
+  {
+    "review_id": "api-14-4",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-13T09:35:23.747020+00:00"
+  },
+  {
+    "review_id": "api-2-22",
+    "location_id": 2,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Paula",
+    "created_at": "2026-03-17T09:08:44.744823+00:00"
+  },
+  {
+    "review_id": "api-14-2",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Ana",
+    "created_at": "2026-03-16T16:27:00.747015+00:00"
+  },
+  {
+    "review_id": "api-4-39",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Andrés",
+    "created_at": "2026-03-13T22:41:42.745156+00:00"
+  },
+  {
+    "review_id": "api-10-6",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Carlos",
+    "created_at": "2026-03-12T03:44:27.746488+00:00"
+  },
+  {
+    "review_id": "api-7-41",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Hubo trato agresivo por parte del personal",
+    "author": null,
+    "created_at": "2026-03-14T03:33:25.746184+00:00"
+  },
+  {
+    "review_id": "api-6-39",
+    "location_id": 6,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Valeria",
+    "created_at": "2026-03-15T23:59:47.745430+00:00"
+  },
+  {
+    "review_id": "api-13-33",
+    "location_id": 13,
+    "rating": 1,
+    "text": "Hubo trato agresivo por parte del personal",
+    "author": "Ana",
+    "created_at": "2026-03-15T00:56:03.746973+00:00"
+  },
+  {
+    "review_id": "api-8-7",
+    "location_id": 8,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Luis",
+    "created_at": "2026-03-12T02:10:08.746217+00:00"
+  },
+  {
+    "review_id": "api-11-18",
+    "location_id": 11,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Sofía",
+    "created_at": "2026-03-12T14:41:39.746661+00:00"
+  },
+  {
+    "review_id": "api-3-20",
+    "location_id": 3,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": null,
+    "created_at": "2026-03-18T10:28:20.744958+00:00"
+  },
+  {
+    "review_id": "api-6-40",
+    "location_id": 6,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Julián",
+    "created_at": "2026-03-15T05:59:19.745433+00:00"
+  },
+  {
+    "review_id": "api-11-12",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-17T09:39:12.746643+00:00"
+  },
+  {
+    "review_id": "api-3-42",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Marta",
+    "created_at": "2026-03-13T01:15:23.745026+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-3",
+    "location_id": 11,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Valeria",
+    "created_at": "2026-03-13T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-2-32",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Luis",
+    "created_at": "2026-03-14T16:41:25.744854+00:00"
+  },
+  {
+    "review_id": "api-10-25",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-15T14:47:47.746547+00:00"
+  },
+  {
+    "review_id": "api-13-8",
+    "location_id": 13,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Ana",
+    "created_at": "2026-03-17T11:29:36.746898+00:00"
+  },
+  {
+    "review_id": "api-1-19",
+    "location_id": 1,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": null,
+    "created_at": "2026-03-14T20:41:03.744669+00:00"
+  },
+  {
+    "review_id": "api-11-8",
+    "location_id": 11,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Pedro",
+    "created_at": "2026-03-14T20:46:16.746631+00:00"
+  },
+  {
+    "review_id": "api-13-34",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Marta",
+    "created_at": "2026-03-18T00:02:59.746976+00:00"
+  },
+  {
+    "review_id": "api-5-15",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Sofía",
+    "created_at": "2026-03-14T14:08:40.745220+00:00"
+  },
+  {
+    "review_id": "api-7-30",
+    "location_id": 7,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": null,
+    "created_at": "2026-03-12T23:35:49.746149+00:00"
+  },
+  {
+    "review_id": "api-15-18",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Ana",
+    "created_at": "2026-03-16T17:31:40.747199+00:00"
+  },
+  {
+    "review_id": "api-11-9",
+    "location_id": 11,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-15T19:29:55.746634+00:00"
+  },
+  {
+    "review_id": "api-8-18",
+    "location_id": 8,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": null,
+    "created_at": "2026-03-17T03:21:14.746250+00:00"
+  },
+  {
+    "review_id": "api-2-6",
+    "location_id": 2,
+    "rating": 1,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": null,
+    "created_at": "2026-03-12T05:58:19.744773+00:00"
+  },
+  {
+    "review_id": "api-12-31",
+    "location_id": 12,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Camila",
+    "created_at": "2026-03-17T09:01:52.746833+00:00"
+  },
+  {
+    "review_id": "api-12-25",
+    "location_id": 12,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Valeria",
+    "created_at": "2026-03-16T11:25:20.746814+00:00"
+  },
+  {
+    "review_id": "api-4-34",
+    "location_id": 4,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Ana",
+    "created_at": "2026-03-16T14:54:31.745140+00:00"
+  },
+  {
+    "review_id": "api-2-4",
+    "location_id": 2,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Luis",
+    "created_at": "2026-03-18T14:40:01.744767+00:00"
+  },
+  {
+    "review_id": "api-2-21",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-13T02:33:13.744820+00:00"
+  },
+  {
+    "review_id": "api-8-30",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Camila",
+    "created_at": "2026-03-16T21:16:32.746285+00:00"
+  },
+  {
+    "review_id": "api-9-42",
+    "location_id": 9,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Julián",
+    "created_at": "2026-03-12T20:49:36.746461+00:00"
+  },
+  {
+    "review_id": "api-8-34",
+    "location_id": 8,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": null,
+    "created_at": "2026-03-16T05:43:19.746299+00:00"
+  },
+  {
+    "review_id": "api-11-3",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Laura",
+    "created_at": "2026-03-16T06:47:22.746616+00:00"
+  },
+  {
+    "review_id": "api-10-14",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-14T10:07:21.746513+00:00"
+  },
+  {
+    "review_id": "api-5-23",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Carlos",
+    "created_at": "2026-03-15T14:57:31.745244+00:00"
+  },
+  {
+    "review_id": "api-9-13",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Sofía",
+    "created_at": "2026-03-12T00:55:12.746373+00:00"
+  },
+  {
+    "review_id": "api-14-39",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Carlos",
+    "created_at": "2026-03-13T17:26:49.747126+00:00"
+  },
+  {
+    "review_id": "api-1-4",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-17T13:24:06.744617+00:00"
+  },
+  {
+    "review_id": "api-13-44",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Laura",
+    "created_at": "2026-03-15T10:59:50.747006+00:00"
+  },
+  {
+    "review_id": "api-15-22",
+    "location_id": 15,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Paula",
+    "created_at": "2026-03-13T16:00:24.747210+00:00"
+  },
+  {
+    "review_id": "api-4-26",
+    "location_id": 4,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Sofía",
+    "created_at": "2026-03-13T15:19:55.745115+00:00"
+  },
+  {
+    "review_id": "api-14-15",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": null,
+    "created_at": "2026-03-16T14:45:41.747054+00:00"
+  },
+  {
+    "review_id": "api-1-23",
+    "location_id": 1,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Valeria",
+    "created_at": "2026-03-15T04:44:01.744682+00:00"
+  },
+  {
+    "review_id": "api-6-22",
+    "location_id": 6,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Ana",
+    "created_at": "2026-03-12T17:23:20.745379+00:00"
+  },
+  {
+    "review_id": "api-14-0",
+    "location_id": 14,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Andrés",
+    "created_at": "2026-03-16T16:56:44.747009+00:00"
+  },
+  {
+    "review_id": "api-1-22",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Pedro",
+    "created_at": "2026-03-17T22:23:15.744678+00:00"
+  },
+  {
+    "review_id": "api-7-19",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Marta",
+    "created_at": "2026-03-15T21:07:08.746110+00:00"
+  },
+  {
+    "review_id": "api-11-13",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Andrés",
+    "created_at": "2026-03-13T18:38:15.746646+00:00"
+  },
+  {
+    "review_id": "api-1-43",
+    "location_id": 1,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-14T09:23:04.744745+00:00"
+  },
+  {
+    "review_id": "api-4-2",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Valeria",
+    "created_at": "2026-03-14T01:18:51.745042+00:00"
+  },
+  {
+    "review_id": "api-3-33",
+    "location_id": 3,
+    "rating": 1,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Carlos",
+    "created_at": "2026-03-13T02:27:57.744998+00:00"
+  },
+  {
+    "review_id": "api-13-31",
+    "location_id": 13,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Julián",
+    "created_at": "2026-03-13T05:20:18.746967+00:00"
+  },
+  {
+    "review_id": "api-13-1",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Sofía",
+    "created_at": "2026-03-16T22:53:05.746878+00:00"
+  },
+  {
+    "review_id": "api-3-13",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-18T11:16:46.744934+00:00"
+  },
+  {
+    "review_id": "api-12-10",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Marta",
+    "created_at": "2026-03-12T06:43:43.746770+00:00"
+  },
+  {
+    "review_id": "api-3-6",
+    "location_id": 3,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Camila",
+    "created_at": "2026-03-18T07:40:25.744914+00:00"
+  },
+  {
+    "review_id": "api-1-22",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Pedro",
+    "created_at": "2026-03-17T22:23:15.744678+00:00"
+  },
+  {
+    "review_id": "api-10-24",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Marta",
+    "created_at": "2026-03-12T16:47:09.746544+00:00"
+  },
+  {
+    "review_id": "api-7-35",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-15T00:01:18.746164+00:00"
+  },
+  {
+    "review_id": "api-10-2",
+    "location_id": 10,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Valeria",
+    "created_at": "2026-03-16T00:20:30.746476+00:00"
+  },
+  {
+    "review_id": "api-1-33",
+    "location_id": 1,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": null,
+    "created_at": "2026-03-16T06:33:55.744714+00:00"
+  },
+  {
+    "review_id": "api-11-30",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Paula",
+    "created_at": "2026-03-14T18:47:10.746696+00:00"
+  },
+  {
+    "review_id": "api-13-25",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Ana",
+    "created_at": "2026-03-18T21:38:43.746949+00:00"
+  },
+  {
+    "review_id": "api-2-38",
+    "location_id": 2,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Ana",
+    "created_at": "2026-03-16T08:35:43.744872+00:00"
+  },
+  {
+    "review_id": "api-4-9",
+    "location_id": 4,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Luis",
+    "created_at": "2026-03-13T08:12:23.745063+00:00"
+  },
+  {
+    "review_id": "api-3-32",
+    "location_id": 3,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Daniel",
+    "created_at": "2026-03-13T11:45:41.744995+00:00"
+  },
+  {
+    "review_id": "api-1-14",
+    "location_id": 1,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Ana",
+    "created_at": "2026-03-14T10:27:12.744651+00:00"
+  },
+  {
+    "review_id": "api-4-36",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Laura",
+    "created_at": "2026-03-12T18:44:55.745146+00:00"
+  },
+  {
+    "review_id": "api-13-29",
+    "location_id": 13,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Sofía",
+    "created_at": "2026-03-18T22:51:06.746961+00:00"
+  },
+  {
+    "review_id": "api-13-32",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Camila",
+    "created_at": "2026-03-15T01:54:27.746970+00:00"
+  },
+  {
+    "review_id": "api-9-37",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": null,
+    "created_at": "2026-03-17T18:49:02.746444+00:00"
+  },
+  {
+    "review_id": "api-2-8",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Carlos",
+    "created_at": "2026-03-13T01:59:17.744779+00:00"
+  },
+  {
+    "review_id": "api-2-10",
+    "location_id": 2,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Julián",
+    "created_at": "2026-03-12T06:57:14.744785+00:00"
+  },
+  {
+    "review_id": "api-4-3",
+    "location_id": 4,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-17T21:19:24.745045+00:00"
+  },
+  {
+    "review_id": "api-3-9",
+    "location_id": 3,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Pedro",
+    "created_at": "2026-03-17T16:39:06.744923+00:00"
+  },
+  {
+    "review_id": "api-11-34",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Laura",
+    "created_at": "2026-03-12T05:05:27.746709+00:00"
+  },
+  {
+    "review_id": "api-8-16",
+    "location_id": 8,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": null,
+    "created_at": "2026-03-17T05:28:15.746244+00:00"
+  },
+  {
+    "review_id": "api-11-33",
+    "location_id": 11,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Sofía",
+    "created_at": "2026-03-15T04:33:38.746706+00:00"
+  },
+  {
+    "review_id": "api-11-32",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": null,
+    "created_at": "2026-03-16T10:37:11.746702+00:00"
+  },
+  {
+    "review_id": "api-2-39",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Luis",
+    "created_at": "2026-03-17T09:54:43.744875+00:00"
+  },
+  {
+    "review_id": "api-5-14",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Julián",
+    "created_at": "2026-03-17T13:47:53.745218+00:00"
+  },
+  {
+    "review_id": "api-14-42",
+    "location_id": 14,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-18T20:52:38.747135+00:00"
+  },
+  {
+    "review_id": "api-13-0",
+    "location_id": 13,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Pedro",
+    "created_at": "2026-03-16T13:05:16.746874+00:00"
+  },
+  {
+    "review_id": "api-8-19",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-13T12:49:09.746253+00:00"
+  },
+  {
+    "review_id": "api-4-25",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Carlos",
+    "created_at": "2026-03-17T03:02:40.745112+00:00"
+  },
+  {
+    "review_id": "api-14-5",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Julián",
+    "created_at": "2026-03-17T04:48:34.747023+00:00"
+  },
+  {
+    "review_id": "api-6-14",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Sofía",
+    "created_at": "2026-03-13T01:30:19.745354+00:00"
+  },
+  {
+    "review_id": "api-8-39",
+    "location_id": 8,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Andrés",
+    "created_at": "2026-03-13T15:08:55.746316+00:00"
+  },
+  {
+    "review_id": "api-15-23",
+    "location_id": 15,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Carlos",
+    "created_at": "2026-03-13T17:21:00.747213+00:00"
+  },
+  {
+    "review_id": "api-15-20",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Luis",
+    "created_at": "2026-03-18T21:44:14.747205+00:00"
+  },
+  {
+    "review_id": "api-12-30",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Andrés",
+    "created_at": "2026-03-12T01:57:26.746829+00:00"
+  },
+  {
+    "review_id": "api-9-21",
+    "location_id": 9,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": null,
+    "created_at": "2026-03-17T02:04:02.746396+00:00"
+  },
+  {
+    "review_id": "api-3-4",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Marta",
+    "created_at": "2026-03-18T03:19:56.744907+00:00"
+  },
+  {
+    "review_id": "api-5-20",
+    "location_id": 5,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Paula",
+    "created_at": "2026-03-18T06:29:16.745235+00:00"
+  },
+  {
+    "review_id": "api-12-20",
+    "location_id": 12,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Marta",
+    "created_at": "2026-03-13T14:25:47.746800+00:00"
+  },
+  {
+    "review_id": "api-12-1",
+    "location_id": 12,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Laura",
+    "created_at": "2026-03-13T05:27:38.746743+00:00"
+  },
+  {
+    "review_id": "api-8-1",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Paula",
+    "created_at": "2026-03-14T12:29:37.746199+00:00"
+  },
+  {
+    "review_id": "api-5-25",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-12T13:42:53.745251+00:00"
+  },
+  {
+    "review_id": "api-15-1",
+    "location_id": 15,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": null,
+    "created_at": "2026-03-18T20:59:02.747147+00:00"
+  },
+  {
+    "review_id": "api-11-5",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-18T21:47:28.746622+00:00"
+  },
+  {
+    "review_id": "api-2-19",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Andrés",
+    "created_at": "2026-03-15T19:53:26.744814+00:00"
+  },
+  {
+    "review_id": "api-11-38",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": null,
+    "created_at": "2026-03-14T23:33:28.746720+00:00"
+  },
+  {
+    "review_id": "api-6-42",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Valeria",
+    "created_at": "2026-03-14T14:03:39.745439+00:00"
+  },
+  {
+    "review_id": "api-2-2",
+    "location_id": 2,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Luis",
+    "created_at": "2026-03-12T19:04:42.744760+00:00"
+  },
+  {
+    "review_id": "api-4-4",
+    "location_id": 4,
+    "rating": 1,
+    "text": "Hubo trato agresivo por parte del personal",
+    "author": "Carlos",
+    "created_at": "2026-03-12T01:36:53.745047+00:00"
+  },
+  {
+    "review_id": "api-11-22",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Julián",
+    "created_at": "2026-03-16T04:42:22.746673+00:00"
+  },
+  {
+    "review_id": "api-spike-2-1",
+    "location_id": 2,
+    "rating": 1,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Ana",
+    "created_at": "2026-03-18T15:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-3-26",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Carlos",
+    "created_at": "2026-03-18T12:47:32.744976+00:00"
+  },
+  {
+    "review_id": "api-9-3",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Marta",
+    "created_at": "2026-03-12T06:29:58.746342+00:00"
+  },
+  {
+    "review_id": "api-4-21",
+    "location_id": 4,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Camila",
+    "created_at": "2026-03-15T00:42:23.745100+00:00"
+  },
+  {
+    "review_id": "api-6-31",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Andrés",
+    "created_at": "2026-03-18T17:57:05.745405+00:00"
+  },
+  {
+    "review_id": "api-7-22",
+    "location_id": 7,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Carlos",
+    "created_at": "2026-03-12T04:45:59.746124+00:00"
+  },
+  {
+    "review_id": "api-3-42",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Marta",
+    "created_at": "2026-03-13T01:15:23.745026+00:00"
+  },
+  {
+    "review_id": "api-4-34",
+    "location_id": 4,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Ana",
+    "created_at": "2026-03-16T14:54:31.745140+00:00"
+  },
+  {
+    "review_id": "api-7-13",
+    "location_id": 7,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-16T12:34:47.745490+00:00"
+  },
+  {
+    "review_id": "api-14-14",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-17T07:40:57.747051+00:00"
+  },
+  {
+    "review_id": "api-8-33",
+    "location_id": 8,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Carlos",
+    "created_at": "2026-03-12T21:06:05.746296+00:00"
+  },
+  {
+    "review_id": "api-5-36",
+    "location_id": 5,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Andrés",
+    "created_at": "2026-03-17T18:07:17.745284+00:00"
+  },
+  {
+    "review_id": "api-10-21",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-18T04:48:11.746534+00:00"
+  },
+  {
+    "review_id": "api-5-22",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Daniel",
+    "created_at": "2026-03-16T17:55:43.745241+00:00"
+  },
+  {
+    "review_id": "api-1-5",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-14T17:54:26.744621+00:00"
+  },
+  {
+    "review_id": "api-2-37",
+    "location_id": 2,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Laura",
+    "created_at": "2026-03-15T22:22:48.744869+00:00"
+  },
+  {
+    "review_id": "api-6-32",
+    "location_id": 6,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Daniel",
+    "created_at": "2026-03-18T05:13:50.745408+00:00"
+  },
+  {
+    "review_id": "api-2-43",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-18T03:32:11.744889+00:00"
+  },
+  {
+    "review_id": "api-9-24",
+    "location_id": 9,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Pedro",
+    "created_at": "2026-03-17T06:08:11.746406+00:00"
+  },
+  {
+    "review_id": "api-7-39",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Ana",
+    "created_at": "2026-03-15T13:20:02.746178+00:00"
+  },
+  {
+    "review_id": "api-10-2",
+    "location_id": 10,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Valeria",
+    "created_at": "2026-03-16T00:20:30.746476+00:00"
+  },
+  {
+    "review_id": "api-8-13",
+    "location_id": 8,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": null,
+    "created_at": "2026-03-13T04:46:44.746235+00:00"
+  },
+  {
+    "review_id": "api-1-30",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-13T19:31:59.744703+00:00"
+  },
+  {
+    "review_id": "api-2-34",
+    "location_id": 2,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Paula",
+    "created_at": "2026-03-16T01:19:18.744860+00:00"
+  },
+  {
+    "review_id": "api-2-11",
+    "location_id": 2,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-18T21:35:10.744788+00:00"
+  },
+  {
+    "review_id": "api-15-5",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Camila",
+    "created_at": "2026-03-15T06:43:11.747159+00:00"
+  },
+  {
+    "review_id": "api-11-14",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Paula",
+    "created_at": "2026-03-16T16:40:13.746649+00:00"
+  },
+  {
+    "review_id": "api-1-9",
+    "location_id": 1,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Laura",
+    "created_at": "2026-03-14T21:19:08.744633+00:00"
+  },
+  {
+    "review_id": "api-13-6",
+    "location_id": 13,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Ana",
+    "created_at": "2026-03-14T10:44:23.746892+00:00"
+  },
+  {
+    "review_id": "api-9-40",
+    "location_id": 9,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-17T06:15:20.746453+00:00"
+  },
+  {
+    "review_id": "api-6-2",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Julián",
+    "created_at": "2026-03-18T14:10:45.745318+00:00"
+  },
+  {
+    "review_id": "api-4-37",
+    "location_id": 4,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Carlos",
+    "created_at": "2026-03-13T19:11:27.745149+00:00"
+  },
+  {
+    "review_id": "api-12-17",
+    "location_id": 12,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Carlos",
+    "created_at": "2026-03-12T12:01:15.746791+00:00"
+  },
+  {
+    "review_id": "api-5-30",
+    "location_id": 5,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-17T08:09:46.745266+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-4",
+    "location_id": 11,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Andrés",
+    "created_at": "2026-03-14T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-13-30",
+    "location_id": 13,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Ana",
+    "created_at": "2026-03-12T13:11:35.746964+00:00"
+  },
+  {
+    "review_id": "api-12-18",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Camila",
+    "created_at": "2026-03-15T16:09:35.746794+00:00"
+  },
+  {
+    "review_id": "api-5-31",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Valeria",
+    "created_at": "2026-03-17T23:47:37.745269+00:00"
+  },
+  {
+    "review_id": "api-9-23",
+    "location_id": 9,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": null,
+    "created_at": "2026-03-14T11:33:09.746403+00:00"
+  },
+  {
+    "review_id": "api-15-28",
+    "location_id": 15,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Luis",
+    "created_at": "2026-03-18T17:35:21.747229+00:00"
+  },
+  {
+    "review_id": "api-9-20",
+    "location_id": 9,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Andrés",
+    "created_at": "2026-03-12T13:37:36.746394+00:00"
+  },
+  {
+    "review_id": "api-14-20",
+    "location_id": 14,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Marta",
+    "created_at": "2026-03-16T21:30:35.747069+00:00"
+  },
+  {
+    "review_id": "api-3-3",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Carlos",
+    "created_at": "2026-03-14T05:46:01.744904+00:00"
+  },
+  {
+    "review_id": "api-7-26",
+    "location_id": 7,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Marta",
+    "created_at": "2026-03-15T19:04:58.746137+00:00"
+  },
+  {
+    "review_id": "api-2-31",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Pedro",
+    "created_at": "2026-03-13T13:01:18.744850+00:00"
+  },
+  {
+    "review_id": "api-5-33",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Valeria",
+    "created_at": "2026-03-13T19:05:50.745275+00:00"
+  },
+  {
+    "review_id": "api-10-11",
+    "location_id": 10,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": "Camila",
+    "created_at": "2026-03-13T04:57:04.746504+00:00"
+  },
+  {
+    "review_id": "api-14-19",
+    "location_id": 14,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Carlos",
+    "created_at": "2026-03-14T02:04:42.747066+00:00"
+  },
+  {
+    "review_id": "api-7-21",
+    "location_id": 7,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Ana",
+    "created_at": "2026-03-14T08:47:38.746121+00:00"
+  },
+  {
+    "review_id": "api-1-6",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-15T13:43:13.744624+00:00"
+  },
+  {
+    "review_id": "api-1-39",
+    "location_id": 1,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Carlos",
+    "created_at": "2026-03-14T07:57:20.744733+00:00"
+  },
+  {
+    "review_id": "api-3-35",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": null,
+    "created_at": "2026-03-16T05:24:14.745004+00:00"
+  },
+  {
+    "review_id": "api-7-28",
+    "location_id": 7,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Valeria",
+    "created_at": "2026-03-13T15:35:38.746143+00:00"
+  },
+  {
+    "review_id": "api-2-27",
+    "location_id": 2,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Laura",
+    "created_at": "2026-03-16T23:01:31.744839+00:00"
+  },
+  {
+    "review_id": "api-5-7",
+    "location_id": 5,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": null,
+    "created_at": "2026-03-14T14:33:13.745196+00:00"
+  },
+  {
+    "review_id": "api-2-30",
+    "location_id": 2,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Camila",
+    "created_at": "2026-03-13T05:30:57.744848+00:00"
+  },
+  {
+    "review_id": "api-1-15",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Carlos",
+    "created_at": "2026-03-15T05:57:24.744655+00:00"
+  },
+  {
+    "review_id": "api-2-35",
+    "location_id": 2,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Sofía",
+    "created_at": "2026-03-16T19:20:44.744863+00:00"
+  },
+  {
+    "review_id": "api-10-40",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": null,
+    "created_at": "2026-03-18T10:54:49.746591+00:00"
+  },
+  {
+    "review_id": "api-7-34",
+    "location_id": 7,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Paula",
+    "created_at": "2026-03-13T22:27:34.746161+00:00"
+  },
+  {
+    "review_id": "api-12-37",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-15T03:15:37.746851+00:00"
+  },
+  {
+    "review_id": "api-6-19",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-13T05:19:05.745370+00:00"
+  },
+  {
+    "review_id": "api-1-37",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Marta",
+    "created_at": "2026-03-17T16:35:22.744726+00:00"
+  },
+  {
+    "review_id": "api-7-27",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Sofía",
+    "created_at": "2026-03-16T23:41:42.746140+00:00"
+  },
+  {
+    "review_id": "api-14-35",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-13T20:49:46.747115+00:00"
+  },
+  {
+    "review_id": "api-2-9",
+    "location_id": 2,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Carlos",
+    "created_at": "2026-03-13T22:37:24.744782+00:00"
+  },
+  {
+    "review_id": "api-8-44",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Carlos",
+    "created_at": "2026-03-13T23:20:09.746330+00:00"
+  },
+  {
+    "review_id": "api-1-27",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Valeria",
+    "created_at": "2026-03-15T02:59:05.744694+00:00"
+  },
+  {
+    "review_id": "api-5-10",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Paula",
+    "created_at": "2026-03-14T14:09:28.745205+00:00"
+  },
+  {
+    "review_id": "api-5-37",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-14T21:06:59.745286+00:00"
+  },
+  {
+    "review_id": "api-14-40",
+    "location_id": 14,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-17T15:42:47.747129+00:00"
+  },
+  {
+    "review_id": "api-15-3",
+    "location_id": 15,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Camila",
+    "created_at": "2026-03-13T10:24:36.747153+00:00"
+  },
+  {
+    "review_id": "api-9-15",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-13T19:45:30.746379+00:00"
+  },
+  {
+    "review_id": "api-15-41",
+    "location_id": 15,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-16T17:54:42.747266+00:00"
+  },
+  {
+    "review_id": "api-12-13",
+    "location_id": 12,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": "Marta",
+    "created_at": "2026-03-14T03:26:00.746779+00:00"
+  },
+  {
+    "review_id": "api-9-0",
+    "location_id": 9,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Ana",
+    "created_at": "2026-03-18T20:51:09.746333+00:00"
+  },
+  {
+    "review_id": "api-13-27",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Julián",
+    "created_at": "2026-03-13T18:39:46.746955+00:00"
+  },
+  {
+    "review_id": "api-12-43",
+    "location_id": 12,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Laura",
+    "created_at": "2026-03-13T19:35:56.746868+00:00"
+  },
+  {
+    "review_id": "api-2-15",
+    "location_id": 2,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-17T21:59:18.744800+00:00"
+  },
+  {
+    "review_id": "api-2-25",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Carlos",
+    "created_at": "2026-03-18T14:06:43.744833+00:00"
+  },
+  {
+    "review_id": "api-9-22",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-17T15:36:45.746399+00:00"
+  },
+  {
+    "review_id": "api-1-28",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": null,
+    "created_at": "2026-03-15T05:03:17.744697+00:00"
+  },
+  {
+    "review_id": "api-3-24",
+    "location_id": 3,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": "Luis",
+    "created_at": "2026-03-15T13:06:26.744970+00:00"
+  },
+  {
+    "review_id": "api-12-42",
+    "location_id": 12,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Camila",
+    "created_at": "2026-03-16T12:16:00.746865+00:00"
+  },
+  {
+    "review_id": "api-3-17",
+    "location_id": 3,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Pedro",
+    "created_at": "2026-03-17T19:24:42.744947+00:00"
+  },
+  {
+    "review_id": "api-3-34",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Andrés",
+    "created_at": "2026-03-15T00:48:14.745000+00:00"
+  },
+  {
+    "review_id": "api-6-0",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Paula",
+    "created_at": "2026-03-12T08:32:08.745312+00:00"
+  },
+  {
+    "review_id": "api-11-17",
+    "location_id": 11,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Valeria",
+    "created_at": "2026-03-12T19:26:49.746658+00:00"
+  },
+  {
+    "review_id": "api-11-26",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Valeria",
+    "created_at": "2026-03-18T00:59:05.746684+00:00"
+  },
+  {
+    "review_id": "api-12-2",
+    "location_id": 12,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Valeria",
+    "created_at": "2026-03-13T10:04:10.746746+00:00"
+  },
+  {
+    "review_id": "api-7-12",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Ana",
+    "created_at": "2026-03-13T17:00:03.745486+00:00"
+  },
+  {
+    "review_id": "api-15-25",
+    "location_id": 15,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": null,
+    "created_at": "2026-03-16T13:47:22.747219+00:00"
+  },
+  {
+    "review_id": "api-10-22",
+    "location_id": 10,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Laura",
+    "created_at": "2026-03-18T17:01:00.746537+00:00"
+  },
+  {
+    "review_id": "api-15-26",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Marta",
+    "created_at": "2026-03-12T23:24:20.747222+00:00"
+  },
+  {
+    "review_id": "api-12-34",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Ana",
+    "created_at": "2026-03-17T11:36:58.746842+00:00"
+  },
+  {
+    "review_id": "api-13-18",
+    "location_id": 13,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": null,
+    "created_at": "2026-03-18T03:24:26.746929+00:00"
+  },
+  {
+    "review_id": "api-10-5",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Marta",
+    "created_at": "2026-03-16T09:46:52.746485+00:00"
+  },
+  {
+    "review_id": "api-13-40",
+    "location_id": 13,
+    "rating": 1,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Sofía",
+    "created_at": "2026-03-15T14:05:24.746994+00:00"
+  },
+  {
+    "review_id": "api-8-42",
+    "location_id": 8,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Pedro",
+    "created_at": "2026-03-17T22:55:26.746324+00:00"
+  },
+  {
+    "review_id": "api-2-16",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-14T19:41:06.744804+00:00"
+  },
+  {
+    "review_id": "api-14-3",
+    "location_id": 14,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Paula",
+    "created_at": "2026-03-17T10:57:38.747017+00:00"
+  },
+  {
+    "review_id": "api-7-8",
+    "location_id": 7,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-14T12:40:44.745474+00:00"
+  },
+  {
+    "review_id": "api-11-35",
+    "location_id": 11,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": "Daniel",
+    "created_at": "2026-03-15T06:44:45.746711+00:00"
+  },
+  {
+    "review_id": "api-9-11",
+    "location_id": 9,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Pedro",
+    "created_at": "2026-03-14T16:30:08.746367+00:00"
+  },
+  {
+    "review_id": "api-1-17",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-15T07:41:37.744663+00:00"
+  },
+  {
+    "review_id": "api-3-30",
+    "location_id": 3,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-13T05:34:03.744988+00:00"
+  },
+  {
+    "review_id": "api-13-20",
+    "location_id": 13,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": null,
+    "created_at": "2026-03-13T02:03:18.746934+00:00"
+  },
+  {
+    "review_id": "api-9-10",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Andrés",
+    "created_at": "2026-03-12T20:34:42.746364+00:00"
+  },
+  {
+    "review_id": "api-6-15",
+    "location_id": 6,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Julián",
+    "created_at": "2026-03-14T20:51:08.745357+00:00"
+  },
+  {
+    "review_id": "api-2-44",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": "Carlos",
+    "created_at": "2026-03-17T16:10:03.744892+00:00"
+  },
+  {
+    "review_id": "api-2-31",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Pedro",
+    "created_at": "2026-03-13T13:01:18.744850+00:00"
+  },
+  {
+    "review_id": "api-10-26",
+    "location_id": 10,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Ana",
+    "created_at": "2026-03-14T22:15:36.746550+00:00"
+  },
+  {
+    "review_id": "api-15-7",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Luis",
+    "created_at": "2026-03-12T06:20:22.747166+00:00"
+  },
+  {
+    "review_id": "api-14-7",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Andrés",
+    "created_at": "2026-03-16T08:55:17.747029+00:00"
+  },
+  {
+    "review_id": "api-6-10",
+    "location_id": 6,
+    "rating": 3,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-15T04:50:40.745343+00:00"
+  },
+  {
+    "review_id": "api-12-9",
+    "location_id": 12,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Camila",
+    "created_at": "2026-03-18T04:18:34.746767+00:00"
+  },
+  {
+    "review_id": "api-12-14",
+    "location_id": 12,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Ana",
+    "created_at": "2026-03-17T07:59:50.746782+00:00"
+  },
+  {
+    "review_id": "api-10-23",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Ana",
+    "created_at": "2026-03-18T08:38:38.746541+00:00"
+  },
+  {
+    "review_id": "api-9-32",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Camila",
+    "created_at": "2026-03-16T15:42:06.746430+00:00"
+  },
+  {
+    "review_id": "api-6-18",
+    "location_id": 6,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Andrés",
+    "created_at": "2026-03-17T20:09:25.745366+00:00"
+  },
+  {
+    "review_id": "api-4-6",
+    "location_id": 4,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Andrés",
+    "created_at": "2026-03-18T03:09:28.745054+00:00"
+  },
+  {
+    "review_id": "api-13-42",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Paula",
+    "created_at": "2026-03-16T06:33:43.747000+00:00"
+  },
+  {
+    "review_id": "api-10-18",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Julián",
+    "created_at": "2026-03-18T13:01:57.746525+00:00"
+  },
+  {
+    "review_id": "api-11-42",
+    "location_id": 11,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": null,
+    "created_at": "2026-03-14T07:21:01.746732+00:00"
+  },
+  {
+    "review_id": "api-10-29",
+    "location_id": 10,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": null,
+    "created_at": "2026-03-14T22:22:39.746558+00:00"
+  },
+  {
+    "review_id": "api-12-11",
+    "location_id": 12,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-15T00:47:31.746773+00:00"
+  },
+  {
+    "review_id": "api-8-11",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Sofía",
+    "created_at": "2026-03-16T17:13:36.746228+00:00"
+  },
+  {
+    "review_id": "api-15-14",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Valeria",
+    "created_at": "2026-03-17T13:25:10.747188+00:00"
+  },
+  {
+    "review_id": "api-13-39",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-17T21:42:04.746990+00:00"
+  },
+  {
+    "review_id": "api-5-6",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Carlos",
+    "created_at": "2026-03-17T05:11:05.745193+00:00"
+  },
+  {
+    "review_id": "api-3-40",
+    "location_id": 3,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Julián",
+    "created_at": "2026-03-16T21:53:03.745019+00:00"
+  },
+  {
+    "review_id": "api-8-15",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-18T19:42:31.746241+00:00"
+  },
+  {
+    "review_id": "api-3-2",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Carlos",
+    "created_at": "2026-03-18T23:29:51.744901+00:00"
+  },
+  {
+    "review_id": "api-4-13",
+    "location_id": 4,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-14T19:11:44.745076+00:00"
+  },
+  {
+    "review_id": "api-7-15",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Pedro",
+    "created_at": "2026-03-16T16:35:39.745496+00:00"
+  },
+  {
+    "review_id": "api-14-13",
+    "location_id": 14,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Paula",
+    "created_at": "2026-03-18T07:59:08.747048+00:00"
+  },
+  {
+    "review_id": "api-14-6",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Daniel",
+    "created_at": "2026-03-12T21:25:19.747027+00:00"
+  },
+  {
+    "review_id": "api-2-23",
+    "location_id": 2,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Ana",
+    "created_at": "2026-03-16T20:53:25.744827+00:00"
+  },
+  {
+    "review_id": "api-11-39",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Laura",
+    "created_at": "2026-03-18T05:11:37.746723+00:00"
+  },
+  {
+    "review_id": "api-11-7",
+    "location_id": 11,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Ana",
+    "created_at": "2026-03-16T13:45:05.746628+00:00"
+  },
+  {
+    "review_id": "api-9-39",
+    "location_id": 9,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Ana",
+    "created_at": "2026-03-15T01:00:08.746450+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-0",
+    "location_id": 11,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Carlos",
+    "created_at": "2026-03-12T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-8-12",
+    "location_id": 8,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-12T12:06:07.746232+00:00"
+  },
+  {
+    "review_id": "api-14-11",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Paula",
+    "created_at": "2026-03-18T02:49:48.747042+00:00"
+  },
+  {
+    "review_id": "api-4-17",
+    "location_id": 4,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Carlos",
+    "created_at": "2026-03-17T04:39:19.745088+00:00"
+  },
+  {
+    "review_id": "api-1-2",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Daniel",
+    "created_at": "2026-03-12T16:22:29.744610+00:00"
+  },
+  {
+    "review_id": "api-15-40",
+    "location_id": 15,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": null,
+    "created_at": "2026-03-15T02:03:57.747263+00:00"
+  },
+  {
+    "review_id": "api-7-1",
+    "location_id": 7,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Paula",
+    "created_at": "2026-03-13T06:32:05.745453+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-1",
+    "location_id": 11,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Daniel",
+    "created_at": "2026-03-12T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-12-16",
+    "location_id": 12,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Julián",
+    "created_at": "2026-03-17T00:44:55.746788+00:00"
+  },
+  {
+    "review_id": "api-7-7",
+    "location_id": 7,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Julián",
+    "created_at": "2026-03-17T08:51:45.745471+00:00"
+  },
+  {
+    "review_id": "api-3-16",
+    "location_id": 3,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Laura",
+    "created_at": "2026-03-17T09:43:42.744943+00:00"
+  },
+  {
+    "review_id": "api-8-41",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Julián",
+    "created_at": "2026-03-18T21:49:53.746321+00:00"
+  },
+  {
+    "review_id": "api-14-9",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-13T01:45:15.747036+00:00"
+  },
+  {
+    "review_id": "api-7-38",
+    "location_id": 7,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Sofía",
+    "created_at": "2026-03-13T11:46:29.746175+00:00"
+  },
+  {
+    "review_id": "api-4-18",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Pedro",
+    "created_at": "2026-03-12T10:02:45.745091+00:00"
+  },
+  {
+    "review_id": "api-10-30",
+    "location_id": 10,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-14T20:29:04.746561+00:00"
+  },
+  {
+    "review_id": "api-critical-1",
+    "location_id": 3,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Pedro",
+    "created_at": "2026-03-18T21:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-8-27",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-14T20:57:53.746276+00:00"
+  },
+  {
+    "review_id": "api-13-3",
+    "location_id": 13,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": "Marta",
+    "created_at": "2026-03-15T08:18:05.746884+00:00"
+  },
+  {
+    "review_id": "api-10-33",
+    "location_id": 10,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Ana",
+    "created_at": "2026-03-13T15:01:55.746570+00:00"
+  },
+  {
+    "review_id": "api-5-2",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Camila",
+    "created_at": "2026-03-15T11:57:17.745180+00:00"
+  },
+  {
+    "review_id": "api-4-19",
+    "location_id": 4,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Marta",
+    "created_at": "2026-03-18T17:29:35.745094+00:00"
+  },
+  {
+    "review_id": "api-12-26",
+    "location_id": 12,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-17T16:54:32.746817+00:00"
+  },
+  {
+    "review_id": "api-2-41",
+    "location_id": 2,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Pedro",
+    "created_at": "2026-03-15T01:33:07.744882+00:00"
+  },
+  {
+    "review_id": "api-9-9",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-12T10:29:00.746361+00:00"
+  },
+  {
+    "review_id": "api-3-31",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Ana",
+    "created_at": "2026-03-15T12:43:09.744992+00:00"
+  },
+  {
+    "review_id": "api-8-26",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Carlos",
+    "created_at": "2026-03-16T15:46:03.746273+00:00"
+  },
+  {
+    "review_id": "api-2-33",
+    "location_id": 2,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Sofía",
+    "created_at": "2026-03-17T19:07:30.744857+00:00"
+  },
+  {
+    "review_id": "api-9-5",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Julián",
+    "created_at": "2026-03-12T09:10:29.746348+00:00"
+  },
+  {
+    "review_id": "api-15-36",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-18T08:54:30.747251+00:00"
+  },
+  {
+    "review_id": "api-3-14",
+    "location_id": 3,
+    "rating": 3,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Camila",
+    "created_at": "2026-03-12T11:27:55.744937+00:00"
+  },
+  {
+    "review_id": "api-14-16",
+    "location_id": 14,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Andrés",
+    "created_at": "2026-03-17T18:03:20.747057+00:00"
+  },
+  {
+    "review_id": "api-15-12",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-12T18:07:43.747182+00:00"
+  },
+  {
+    "review_id": "api-4-38",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Pedro",
+    "created_at": "2026-03-15T06:00:50.745152+00:00"
+  },
+  {
+    "review_id": "api-12-8",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Marta",
+    "created_at": "2026-03-18T11:01:55.746764+00:00"
+  },
+  {
+    "review_id": "api-3-25",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-15T16:49:49.744973+00:00"
+  },
+  {
+    "review_id": "api-lowavg-11-7",
+    "location_id": 11,
+    "rating": 2,
+    "text": "No había varios productos del menú",
+    "author": "Sofía",
+    "created_at": "2026-03-14T23:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-6-6",
+    "location_id": 6,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Daniel",
+    "created_at": "2026-03-14T17:00:01.745329+00:00"
+  },
+  {
+    "review_id": "api-7-23",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": null,
+    "created_at": "2026-03-13T00:12:00.746127+00:00"
+  },
+  {
+    "review_id": "api-9-1",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-16T23:53:14.746336+00:00"
+  },
+  {
+    "review_id": "api-4-15",
+    "location_id": 4,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Paula",
+    "created_at": "2026-03-18T04:38:05.745082+00:00"
+  },
+  {
+    "review_id": "api-9-34",
+    "location_id": 9,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Pedro",
+    "created_at": "2026-03-16T00:18:19.746436+00:00"
+  },
+  {
+    "review_id": "api-10-32",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Luis",
+    "created_at": "2026-03-18T14:02:17.746567+00:00"
+  },
+  {
+    "review_id": "api-6-7",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-18T10:36:30.745332+00:00"
+  },
+  {
+    "review_id": "api-1-24",
+    "location_id": 1,
+    "rating": 1,
+    "text": "Hubo trato agresivo por parte del personal",
+    "author": "Camila",
+    "created_at": "2026-03-15T02:17:13.744685+00:00"
+  },
+  {
+    "review_id": "api-6-4",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-12T06:26:56.745324+00:00"
+  },
+  {
+    "review_id": "api-12-42",
+    "location_id": 12,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Camila",
+    "created_at": "2026-03-16T12:16:00.746865+00:00"
+  },
+  {
+    "review_id": "api-4-10",
+    "location_id": 4,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Carlos",
+    "created_at": "2026-03-18T04:14:00.745066+00:00"
+  },
+  {
+    "review_id": "api-10-20",
+    "location_id": 10,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Carlos",
+    "created_at": "2026-03-12T02:58:34.746531+00:00"
+  },
+  {
+    "review_id": "api-12-28",
+    "location_id": 12,
+    "rating": 4,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Luis",
+    "created_at": "2026-03-15T14:38:37.746824+00:00"
+  },
+  {
+    "review_id": "api-14-24",
+    "location_id": 14,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Marta",
+    "created_at": "2026-03-13T17:26:19.747082+00:00"
+  },
+  {
+    "review_id": "api-7-33",
+    "location_id": 7,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Daniel",
+    "created_at": "2026-03-16T09:53:07.746158+00:00"
+  },
+  {
+    "review_id": "api-13-17",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Andrés",
+    "created_at": "2026-03-15T06:00:34.746926+00:00"
+  },
+  {
+    "review_id": "api-3-15",
+    "location_id": 3,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Ana",
+    "created_at": "2026-03-13T01:20:57.744941+00:00"
+  },
+  {
+    "review_id": "api-2-0",
+    "location_id": 2,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Valeria",
+    "created_at": "2026-03-13T13:30:19.744753+00:00"
+  },
+  {
+    "review_id": "api-15-13",
+    "location_id": 15,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Julián",
+    "created_at": "2026-03-14T11:01:24.747185+00:00"
+  },
+  {
+    "review_id": "api-3-36",
+    "location_id": 3,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Marta",
+    "created_at": "2026-03-18T02:19:59.745007+00:00"
+  },
+  {
+    "review_id": "api-14-30",
+    "location_id": 14,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Luis",
+    "created_at": "2026-03-14T13:51:21.747099+00:00"
+  },
+  {
+    "review_id": "api-7-3",
+    "location_id": 7,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-12T08:12:46.745459+00:00"
+  },
+  {
+    "review_id": "api-13-16",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Luis",
+    "created_at": "2026-03-14T19:26:18.746923+00:00"
+  },
+  {
+    "review_id": "api-2-12",
+    "location_id": 2,
+    "rating": 3,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Valeria",
+    "created_at": "2026-03-12T08:40:04.744791+00:00"
+  },
+  {
+    "review_id": "api-6-24",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Andrés",
+    "created_at": "2026-03-12T15:37:41.745385+00:00"
+  },
+  {
+    "review_id": "api-4-23",
+    "location_id": 4,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Julián",
+    "created_at": "2026-03-15T11:49:17.745107+00:00"
+  },
+  {
+    "review_id": "api-spike-2-3",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La atención fue grosera y el lugar estaba sucio",
+    "author": "Marta",
+    "created_at": "2026-03-18T17:45:00.747278+00:00"
+  },
+  {
+    "review_id": "api-8-24",
+    "location_id": 8,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Luis",
+    "created_at": "2026-03-13T22:15:00.746268+00:00"
+  },
+  {
+    "review_id": "api-7-44",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": null,
+    "created_at": "2026-03-17T19:45:20.746193+00:00"
+  },
+  {
+    "review_id": "api-4-32",
+    "location_id": 4,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": null,
+    "created_at": "2026-03-13T04:14:12.745134+00:00"
+  },
+  {
+    "review_id": "api-11-4",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": null,
+    "created_at": "2026-03-14T23:11:22.746619+00:00"
+  },
+  {
+    "review_id": "api-13-36",
+    "location_id": 13,
+    "rating": 3,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Carlos",
+    "created_at": "2026-03-12T01:10:28.746982+00:00"
+  },
+  {
+    "review_id": "api-11-41",
+    "location_id": 11,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-12T06:42:16.746729+00:00"
+  },
+  {
+    "review_id": "api-4-7",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Ana",
+    "created_at": "2026-03-15T17:10:06.745057+00:00"
+  },
+  {
+    "review_id": "api-5-27",
+    "location_id": 5,
+    "rating": 1,
+    "text": "Encontré un vidrio en mi bebida, esto es gravísimo",
+    "author": "Laura",
+    "created_at": "2026-03-13T05:28:45.745256+00:00"
+  },
+  {
+    "review_id": "api-2-42",
+    "location_id": 2,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": null,
+    "created_at": "2026-03-14T06:33:54.744885+00:00"
+  },
+  {
+    "review_id": "api-8-31",
+    "location_id": 8,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Paula",
+    "created_at": "2026-03-12T23:56:32.746289+00:00"
+  },
+  {
+    "review_id": "api-13-15",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Valeria",
+    "created_at": "2026-03-14T08:15:18.746919+00:00"
+  },
+  {
+    "review_id": "api-2-1",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Daniel",
+    "created_at": "2026-03-15T07:02:37.744756+00:00"
+  },
+  {
+    "review_id": "api-1-9",
+    "location_id": 1,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Laura",
+    "created_at": "2026-03-14T21:19:08.744633+00:00"
+  },
+  {
+    "review_id": "api-14-28",
+    "location_id": 14,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Valeria",
+    "created_at": "2026-03-15T04:12:17.747094+00:00"
+  },
+  {
+    "review_id": "api-14-29",
+    "location_id": 14,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": null,
+    "created_at": "2026-03-12T03:54:40.747096+00:00"
+  },
+  {
+    "review_id": "api-7-4",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Ana",
+    "created_at": "2026-03-16T18:13:56.745462+00:00"
+  },
+  {
+    "review_id": "api-7-4",
+    "location_id": 7,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Ana",
+    "created_at": "2026-03-16T18:13:56.745462+00:00"
+  },
+  {
+    "review_id": "api-1-3",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-16T03:57:54.744613+00:00"
+  },
+  {
+    "review_id": "api-7-33",
+    "location_id": 7,
+    "rating": 1,
+    "text": "La atención fue grosera",
+    "author": "Daniel",
+    "created_at": "2026-03-16T09:53:07.746158+00:00"
+  },
+  {
+    "review_id": "api-4-0",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Marta",
+    "created_at": "2026-03-18T12:04:56.745035+00:00"
+  },
+  {
+    "review_id": "api-1-44",
+    "location_id": 1,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Laura",
+    "created_at": "2026-03-18T23:41:47.744748+00:00"
+  },
+  {
+    "review_id": "api-1-13",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Daniel",
+    "created_at": "2026-03-14T16:45:29.744648+00:00"
+  },
+  {
+    "review_id": "api-3-22",
+    "location_id": 3,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": null,
+    "created_at": "2026-03-18T11:53:45.744964+00:00"
+  },
+  {
+    "review_id": "api-15-35",
+    "location_id": 15,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": "Ana",
+    "created_at": "2026-03-16T15:46:28.747248+00:00"
+  },
+  {
+    "review_id": "api-9-33",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Paula",
+    "created_at": "2026-03-18T18:18:50.746433+00:00"
+  },
+  {
+    "review_id": "api-9-26",
+    "location_id": 9,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Luis",
+    "created_at": "2026-03-18T04:04:14.746412+00:00"
+  },
+  {
+    "review_id": "api-15-21",
+    "location_id": 15,
+    "rating": 2,
+    "text": "Tardaron demasiado en atender",
+    "author": "Julián",
+    "created_at": "2026-03-15T08:34:37.747208+00:00"
+  },
+  {
+    "review_id": "api-14-32",
+    "location_id": 14,
+    "rating": 2,
+    "text": "No volvería, muy decepcionante",
+    "author": "Carlos",
+    "created_at": "2026-03-15T04:36:03.747105+00:00"
+  },
+  {
+    "review_id": "api-1-12",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Daniel",
+    "created_at": "2026-03-15T03:51:12.744645+00:00"
+  },
+  {
+    "review_id": "api-4-5",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Julián",
+    "created_at": "2026-03-14T01:40:49.745051+00:00"
+  },
+  {
+    "review_id": "api-12-44",
+    "location_id": 12,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-13T20:14:47.746871+00:00"
+  },
+  {
+    "review_id": "api-3-12",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Julián",
+    "created_at": "2026-03-13T12:52:48.744931+00:00"
+  },
+  {
+    "review_id": "api-10-7",
+    "location_id": 10,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": null,
+    "created_at": "2026-03-17T07:04:27.746491+00:00"
+  },
+  {
+    "review_id": "api-11-15",
+    "location_id": 11,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-15T14:10:22.746652+00:00"
+  },
+  {
+    "review_id": "api-6-26",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Luis",
+    "created_at": "2026-03-13T23:37:08.745391+00:00"
+  },
+  {
+    "review_id": "api-10-31",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Luis",
+    "created_at": "2026-03-13T16:01:09.746564+00:00"
+  },
+  {
+    "review_id": "api-2-28",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La comida llegó fría",
+    "author": "Camila",
+    "created_at": "2026-03-17T13:57:52.744842+00:00"
+  },
+  {
+    "review_id": "api-4-11",
+    "location_id": 4,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-17T14:40:27.745070+00:00"
+  },
+  {
+    "review_id": "api-2-26",
+    "location_id": 2,
+    "rating": 1,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Daniel",
+    "created_at": "2026-03-17T02:51:02.744836+00:00"
+  },
+  {
+    "review_id": "api-5-12",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Todo más o menos bien",
+    "author": "Sofía",
+    "created_at": "2026-03-17T00:15:52.745211+00:00"
+  },
+  {
+    "review_id": "api-14-37",
+    "location_id": 14,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Camila",
+    "created_at": "2026-03-17T06:01:38.747120+00:00"
+  },
+  {
+    "review_id": "api-9-43",
+    "location_id": 9,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Ana",
+    "created_at": "2026-03-12T06:38:31.746464+00:00"
+  },
+  {
+    "review_id": "api-5-1",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-15T19:14:24.745177+00:00"
+  },
+  {
+    "review_id": "api-4-31",
+    "location_id": 4,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Julián",
+    "created_at": "2026-03-12T00:38:24.745131+00:00"
+  },
+  {
+    "review_id": "api-8-2",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-14T20:12:35.746202+00:00"
+  },
+  {
+    "review_id": "api-1-21",
+    "location_id": 1,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-14T06:51:25.744675+00:00"
+  },
+  {
+    "review_id": "api-7-18",
+    "location_id": 7,
+    "rating": 1,
+    "text": "La comida estaba en mal estado, esto es un riesgo sanitario",
+    "author": "Carlos",
+    "created_at": "2026-03-14T03:57:14.745505+00:00"
+  },
+  {
+    "review_id": "api-15-33",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Laura",
+    "created_at": "2026-03-17T17:43:49.747243+00:00"
+  },
+  {
+    "review_id": "api-5-4",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-13T03:47:55.745186+00:00"
+  },
+  {
+    "review_id": "api-12-7",
+    "location_id": 12,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": "Andrés",
+    "created_at": "2026-03-14T07:42:30.746761+00:00"
+  },
+  {
+    "review_id": "api-13-43",
+    "location_id": 13,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Marta",
+    "created_at": "2026-03-14T08:35:11.747003+00:00"
+  },
+  {
+    "review_id": "api-5-13",
+    "location_id": 5,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Laura",
+    "created_at": "2026-03-12T05:01:48.745214+00:00"
+  },
+  {
+    "review_id": "api-13-5",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Luis",
+    "created_at": "2026-03-13T07:04:07.746890+00:00"
+  },
+  {
+    "review_id": "api-5-9",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Daniel",
+    "created_at": "2026-03-12T09:22:57.745202+00:00"
+  },
+  {
+    "review_id": "api-11-20",
+    "location_id": 11,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Laura",
+    "created_at": "2026-03-15T06:37:17.746667+00:00"
+  },
+  {
+    "review_id": "api-5-5",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Andrés",
+    "created_at": "2026-03-14T11:02:50.745190+00:00"
+  },
+  {
+    "review_id": "api-12-12",
+    "location_id": 12,
+    "rating": 3,
+    "text": "La experiencia fue aceptable",
+    "author": "Laura",
+    "created_at": "2026-03-13T09:08:03.746776+00:00"
+  },
+  {
+    "review_id": "api-3-5",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Andrés",
+    "created_at": "2026-03-13T03:20:17.744911+00:00"
+  },
+  {
+    "review_id": "api-11-40",
+    "location_id": 11,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Luis",
+    "created_at": "2026-03-13T12:13:51.746726+00:00"
+  },
+  {
+    "review_id": "api-13-6",
+    "location_id": 13,
+    "rating": 1,
+    "text": "La comida llegó fría",
+    "author": "Ana",
+    "created_at": "2026-03-14T10:44:23.746892+00:00"
+  },
+  {
+    "review_id": "api-14-0",
+    "location_id": 14,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Andrés",
+    "created_at": "2026-03-16T16:56:44.747009+00:00"
+  },
+  {
+    "review_id": "api-10-39",
+    "location_id": 10,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Camila",
+    "created_at": "2026-03-14T16:14:06.746589+00:00"
+  },
+  {
+    "review_id": "api-6-12",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Camila",
+    "created_at": "2026-03-12T02:17:38.745348+00:00"
+  },
+  {
+    "review_id": "api-11-6",
+    "location_id": 11,
+    "rating": 1,
+    "text": "No había varios productos del menú",
+    "author": "Ana",
+    "created_at": "2026-03-17T06:16:21.746625+00:00"
+  },
+  {
+    "review_id": "api-4-24",
+    "location_id": 4,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": "Sofía",
+    "created_at": "2026-03-16T23:17:36.745109+00:00"
+  },
+  {
+    "review_id": "api-9-44",
+    "location_id": 9,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": "Marta",
+    "created_at": "2026-03-18T18:19:33.746466+00:00"
+  },
+  {
+    "review_id": "api-15-14",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Valeria",
+    "created_at": "2026-03-17T13:25:10.747188+00:00"
+  },
+  {
+    "review_id": "api-14-10",
+    "location_id": 14,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Ana",
+    "created_at": "2026-03-14T21:28:20.747039+00:00"
+  },
+  {
+    "review_id": "api-5-28",
+    "location_id": 5,
+    "rating": 3,
+    "text": "Todo más o menos bien",
+    "author": "Camila",
+    "created_at": "2026-03-16T19:04:27.745260+00:00"
+  },
+  {
+    "review_id": "api-7-5",
+    "location_id": 7,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-15T06:45:11.745465+00:00"
+  },
+  {
+    "review_id": "api-13-35",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Regular, ni bueno ni malo",
+    "author": "Andrés",
+    "created_at": "2026-03-14T07:39:07.746979+00:00"
+  },
+  {
+    "review_id": "api-6-0",
+    "location_id": 6,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Paula",
+    "created_at": "2026-03-12T08:32:08.745312+00:00"
+  },
+  {
+    "review_id": "api-11-2",
+    "location_id": 11,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-13T11:25:30.746612+00:00"
+  },
+  {
+    "review_id": "api-5-31",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Valeria",
+    "created_at": "2026-03-17T23:47:37.745269+00:00"
+  },
+  {
+    "review_id": "api-13-24",
+    "location_id": 13,
+    "rating": 4,
+    "text": "Normal, nada especial",
+    "author": null,
+    "created_at": "2026-03-16T03:21:56.746946+00:00"
+  },
+  {
+    "review_id": "api-14-33",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": null,
+    "created_at": "2026-03-18T10:43:12.747108+00:00"
+  },
+  {
+    "review_id": "api-15-19",
+    "location_id": 15,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Marta",
+    "created_at": "2026-03-17T23:04:00.747202+00:00"
+  },
+  {
+    "review_id": "api-15-11",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Todo salió perfecto",
+    "author": "Carlos",
+    "created_at": "2026-03-12T15:15:54.747179+00:00"
+  },
+  {
+    "review_id": "api-6-38",
+    "location_id": 6,
+    "rating": 4,
+    "text": "Sin comentarios relevantes",
+    "author": "Ana",
+    "created_at": "2026-03-14T10:36:34.745427+00:00"
+  },
+  {
+    "review_id": "api-15-39",
+    "location_id": 15,
+    "rating": 4,
+    "text": "La experiencia fue aceptable",
+    "author": "Pedro",
+    "created_at": "2026-03-13T21:58:38.747260+00:00"
+  },
+  {
+    "review_id": "api-9-31",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": null,
+    "created_at": "2026-03-16T23:30:41.746427+00:00"
+  },
+  {
+    "review_id": "api-3-18",
+    "location_id": 3,
+    "rating": 4,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": null,
+    "created_at": "2026-03-16T07:30:13.744950+00:00"
+  },
+  {
+    "review_id": "api-14-12",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Andrés",
+    "created_at": "2026-03-12T08:07:50.747045+00:00"
+  },
+  {
+    "review_id": "api-15-43",
+    "location_id": 15,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Sofía",
+    "created_at": "2026-03-14T14:29:21.747273+00:00"
+  },
+  {
+    "review_id": "api-13-10",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Camila",
+    "created_at": "2026-03-18T06:56:33.746904+00:00"
+  },
+  {
+    "review_id": "api-1-16",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": "Pedro",
+    "created_at": "2026-03-12T22:58:21.744659+00:00"
+  },
+  {
+    "review_id": "api-6-37",
+    "location_id": 6,
+    "rating": 4,
+    "text": "El servicio fue rápido y amable",
+    "author": null,
+    "created_at": "2026-03-15T15:46:57.745424+00:00"
+  },
+  {
+    "review_id": "api-5-0",
+    "location_id": 5,
+    "rating": 4,
+    "text": "Buen ambiente y personal atento",
+    "author": "Daniel",
+    "created_at": "2026-03-12T04:50:52.745174+00:00"
+  },
+  {
+    "review_id": "api-7-16",
+    "location_id": 7,
+    "rating": 2,
+    "text": "Pésimo servicio, nadie resolvió nada",
+    "author": "Ana",
+    "created_at": "2026-03-15T19:29:44.745499+00:00"
+  },
+  {
+    "review_id": "api-5-44",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": "Laura",
+    "created_at": "2026-03-12T22:43:36.745309+00:00"
+  },
+  {
+    "review_id": "api-9-4",
+    "location_id": 9,
+    "rating": 5,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Ana",
+    "created_at": "2026-03-12T14:01:11.746345+00:00"
+  },
+  {
+    "review_id": "api-1-10",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Todo salió perfecto",
+    "author": null,
+    "created_at": "2026-03-17T08:12:32.744639+00:00"
+  },
+  {
+    "review_id": "api-15-10",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Andrés",
+    "created_at": "2026-03-12T13:55:36.747176+00:00"
+  },
+  {
+    "review_id": "api-2-13",
+    "location_id": 2,
+    "rating": 3,
+    "text": "Normal, nada especial",
+    "author": "Daniel",
+    "created_at": "2026-03-14T12:23:38.744794+00:00"
+  },
+  {
+    "review_id": "api-4-28",
+    "location_id": 4,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Julián",
+    "created_at": "2026-03-17T00:23:25.745121+00:00"
+  },
+  {
+    "review_id": "api-7-31",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Hubo trato agresivo por parte del personal",
+    "author": "Andrés",
+    "created_at": "2026-03-13T10:25:05.746152+00:00"
+  },
+  {
+    "review_id": "api-14-41",
+    "location_id": 14,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-14T14:04:17.747132+00:00"
+  },
+  {
+    "review_id": "api-10-13",
+    "location_id": 10,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": null,
+    "created_at": "2026-03-18T01:10:12.746510+00:00"
+  },
+  {
+    "review_id": "api-4-40",
+    "location_id": 4,
+    "rating": 5,
+    "text": "El servicio fue rápido y amable",
+    "author": "Paula",
+    "created_at": "2026-03-13T20:18:00.745159+00:00"
+  },
+  {
+    "review_id": "api-7-0",
+    "location_id": 7,
+    "rating": 1,
+    "text": "No volvería, muy decepcionante",
+    "author": "Camila",
+    "created_at": "2026-03-14T01:24:36.745449+00:00"
+  },
+  {
+    "review_id": "api-13-22",
+    "location_id": 13,
+    "rating": 1,
+    "text": "Tardaron demasiado en atender",
+    "author": "Pedro",
+    "created_at": "2026-03-14T00:40:51.746940+00:00"
+  },
+  {
+    "review_id": "api-2-40",
+    "location_id": 2,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-15T09:57:03.744879+00:00"
+  },
+  {
+    "review_id": "api-8-17",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Todo estuvo muy rico",
+    "author": "Luis",
+    "created_at": "2026-03-13T08:46:04.746248+00:00"
+  },
+  {
+    "review_id": "api-9-17",
+    "location_id": 9,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Sofía",
+    "created_at": "2026-03-14T02:26:23.746385+00:00"
+  },
+  {
+    "review_id": "api-14-34",
+    "location_id": 14,
+    "rating": 3,
+    "text": "Estuvo bien, pero puede mejorar",
+    "author": "Pedro",
+    "created_at": "2026-03-16T09:03:53.747112+00:00"
+  },
+  {
+    "review_id": "api-15-17",
+    "location_id": 15,
+    "rating": 5,
+    "text": "Excelente atención y comida deliciosa",
+    "author": null,
+    "created_at": "2026-03-13T09:39:44.747197+00:00"
+  },
+  {
+    "review_id": "api-8-40",
+    "location_id": 8,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Carlos",
+    "created_at": "2026-03-14T22:17:19.746318+00:00"
+  },
+  {
+    "review_id": "api-15-34",
+    "location_id": 15,
+    "rating": 4,
+    "text": "Todo estuvo muy rico",
+    "author": "Daniel",
+    "created_at": "2026-03-17T04:25:50.747246+00:00"
+  },
+  {
+    "review_id": "api-1-1",
+    "location_id": 1,
+    "rating": 5,
+    "text": "Buen ambiente y personal atento",
+    "author": "Marta",
+    "created_at": "2026-03-15T03:33:58.744604+00:00"
+  },
+  {
+    "review_id": "api-3-28",
+    "location_id": 3,
+    "rating": 3,
+    "text": "Sin comentarios relevantes",
+    "author": null,
+    "created_at": "2026-03-12T13:19:07.744982+00:00"
+  },
+  {
+    "review_id": "api-13-7",
+    "location_id": 13,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Andrés",
+    "created_at": "2026-03-13T01:09:29.746895+00:00"
+  },
+  {
+    "review_id": "api-5-35",
+    "location_id": 5,
+    "rating": 5,
+    "text": "Muy buena experiencia, volvería sin duda",
+    "author": "Marta",
+    "created_at": "2026-03-17T22:59:25.745281+00:00"
+  },
+  {
+    "review_id": "api-6-29",
+    "location_id": 6,
+    "rating": 5,
+    "text": "Muy satisfecho con la visita",
+    "author": "Camila",
+    "created_at": "2026-03-16T12:54:58.745399+00:00"
+  },
+  {
+    "review_id": "api-15-27",
+    "location_id": 15,
+    "rating": 4,
+    "text": "La comida llegó a tiempo y en buen estado",
+    "author": "Paula",
+    "created_at": "2026-03-14T03:16:40.747225+00:00"
+  },
+  {
+    "review_id": "api-2-7",
+    "location_id": 2,
+    "rating": 2,
+    "text": "La orden llegó incompleta",
+    "author": "Carlos",
+    "created_at": "2026-03-17T11:10:53.744776+00:00"
+  },
+  {
+    "review_id": "api-7-6",
+    "location_id": 7,
+    "rating": 1,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": null,
+    "created_at": "2026-03-17T09:51:28.745468+00:00"
+  },
+  {
+    "review_id": "api-4-1",
+    "location_id": 4,
+    "rating": 4,
+    "text": "Muy satisfecho con la visita",
+    "author": "Valeria",
+    "created_at": "2026-03-17T19:12:21.745039+00:00"
+  },
+  {
+    "review_id": "api-7-14",
+    "location_id": 7,
+    "rating": 2,
+    "text": "La atención fue grosera",
+    "author": "Andrés",
+    "created_at": "2026-03-17T09:49:37.745493+00:00"
+  },
+  {
+    "review_id": "api-4-16",
+    "location_id": 4,
+    "rating": 2,
+    "text": "Muy mala experiencia, el lugar estaba sucio",
+    "author": "Luis",
+    "created_at": "2026-03-16T19:40:03.745085+00:00"
+  },
+  {
+    "review_id": "api-15-24",
+    "location_id": 15,
+    "rating": 1,
+    "text": "Me sentí mal después de comer aquí, posible intoxicación",
+    "author": null,
+    "created_at": "2026-03-18T12:01:29.747216+00:00"
+  },
+  {
+    "review_id": "api-1-40",
+    "location_id": 1,
+    "rating": 1,
+    "text": "La orden llegó incompleta",
+    "author": "Paula",
+    "created_at": "2026-03-12T02:32:16.744736+00:00"
+  }
+]
