@@ -53,7 +53,7 @@ def save_analysis(unified_review_id: int, result: dict):
     conn.close()
 
 
-def run_analysis(batch_size=20):
+def run_analysis(batch_size=50):
     reviews = get_unanalyzed_reviews(limit=batch_size)
 
     print(f"Reviews a analizar: {len(reviews)}")
@@ -72,13 +72,20 @@ def run_analysis(batch_size=20):
             validated = validate_analysis(raw)
 
             save_analysis(review["id"], validated)
-
             success += 1
 
         except Exception as e:
             print(f"[ERROR] review_id={review['id']}: {e}")
             failed += 1
 
+    result = {
+        "attempted": len(reviews),
+        "success": success,
+        "failed": failed,
+    }
+
     print("\nResumen análisis:")
-    print(f"✔ exitosos: {success}")
-    print(f"✖ fallidos: {failed}")
+    print(f"✔ exitosos: {result['success']}")
+    print(f"✖ fallidos: {result['failed']}")
+
+    return result

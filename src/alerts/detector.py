@@ -33,6 +33,14 @@ def run_alert_detection():
         else:
             skipped_count += 1
 
+    result = {
+        "candidates": len(all_candidates),
+        "inserted": inserted_count,
+        "duplicates": skipped_count,
+    }
+
     print("\nResumen alertas:")
-    print(f"✔ nuevas alertas: {inserted_count}")
-    print(f"➖ duplicadas ignoradas: {skipped_count}")
+    print(f"✔ nuevas alertas: {result['inserted']}")
+    print(f"➖ duplicadas ignoradas: {result['duplicates']}")
+
+    return result

@@ -28,12 +28,14 @@ def load_api_reviews():
     total_fetched = 0
     total_inserted = 0
     total_duplicates = 0
+    failed_locations = []
 
     for location_id in LOCATION_IDS:
         try:
             api_reviews = fetch_reviews_for_location(location_id, since_iso)
         except requests.RequestException as exc:
             print(f"[ERROR] Local {location_id}: no se pudo consultar la API -> {exc}")
+            failed_locations.append(location_id)
             continue
 
         print(f"Local {location_id}: {len(api_reviews)} reviews obtenidas")
@@ -48,10 +50,20 @@ def load_api_reviews():
             else:
                 total_duplicates += 1
 
+    result = {
+        "fetched": total_fetched,
+        "inserted": total_inserted,
+        "duplicates": total_duplicates,
+        "failed_locations": failed_locations,
+    }
+
     print("\nResumen carga API -> unified_reviews")
-    print(f"Total fetched: {total_fetched}")
-    print(f"Total inserted: {total_inserted}")
-    print(f"Total duplicates skipped: {total_duplicates}")
+    print(f"Total fetched: {result['fetched']}")
+    print(f"Total inserted: {result['inserted']}")
+    print(f"Total duplicates skipped: {result['duplicates']}")
+    print(f"Failed locations: {len(result['failed_locations'])}")
+
+    return result
 
 
 if __name__ == "__main__":

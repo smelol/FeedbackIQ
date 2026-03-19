@@ -4,12 +4,18 @@ from load_api_to_unified import load_api_reviews
 
 def run_etl():
     print("=== ETL: Surveys ===")
-    load_surveys()
+    surveys_result = load_surveys()
 
     print("\n=== ETL: API Reviews ===")
-    load_api_reviews()
+    api_result = load_api_reviews()
+
+    result = {
+        "surveys": surveys_result,
+        "api": api_result,
+    }
 
     print("\nETL completado.")
+    return result
 
 
 if __name__ == "__main__":

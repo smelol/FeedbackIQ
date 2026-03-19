@@ -33,9 +33,17 @@ def load_surveys():
         else:
             duplicate_count += 1
 
-    print(f"Encuestas procesadas: {len(surveys)}")
-    print(f"Reviews nuevas insertadas: {inserted_count}")
-    print(f"Duplicadas ignoradas: {duplicate_count}")
+    result = {
+        "processed": len(surveys),
+        "inserted": inserted_count,
+        "duplicates": duplicate_count,
+    }
+
+    print("Encuestas procesadas:", result["processed"])
+    print("Reviews nuevas insertadas:", result["inserted"])
+    print("Duplicadas ignoradas:", result["duplicates"])
+
+    return result
 
 
 if __name__ == "__main__":

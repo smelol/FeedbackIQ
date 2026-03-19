@@ -26,6 +26,7 @@ El script `seed.py` genera:
 ### Ejecutar:
 
 ```bash
+py init_db.py
 py seed.py
 ```
 
