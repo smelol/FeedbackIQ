@@ -129,3 +129,124 @@ py run_analysis.py
 * ejecuta el modelo con cada prompt
 * verifica que el resultado sea valido
 * inserta resultado en review_analysis
+
+Salida esperada por review
+
+* sentiment → positive | negative | neutral
+* categories → lista de categorías válidas
+* summary → resumen corto
+* urgency → entero entre 1 y 5
+
+Categorías usadas
+
+* producto
+* servicio
+* ambiente
+* precio
+* limpieza
+* otro
+
+## Alertas
+
+El sistema genera alertas a partir de reglas sobre unified_reviews y review_analysis.
+
+Ejecutar:
+```bash
+py run_alerts.py
+```
+
+# Reglas actuales
+
+1. CRITICA
+
+Se genera si una review tiene:
+
+urgency = 5
+
+2. ALTA
+
+Se genera si un local tiene:
+
+3 o más reseñas negativas en las últimas 24 horas
+
+3. MEDIA
+
+Se genera si un local tiene:
+
+promedio semanal de rating menor a 3.5
+
+# Persistencia
+
+Las alertas se guardan en:
+
+tabla alerts
+archivo data/alerts_log.jsonl
+
+Dedupe
+Cada alerta usa un dedupe_key único para evitar duplicados si el detector corre varias veces.
+
+## Reporte semanal
+
+Genera un HTML con métricas y resumen ejecutivo.
+
+Ejecutar:
+```bash
+py run_report.py
+```
+
+Salida:
+
+data/reports/weekly_report.html
+
+### Incluye
+- total de reseñas
+- total analizadas
+- total de alertas
+- distribución de sentimiento
+- top 3 locales mejor valorados
+- top 3 locales con más problemas
+- categorías más mencionadas
+- resumen ejecutivo generado con IA
+- alertas recientes
+
+
+## Pipeline completo
+
+Ejecuta ETL, análisis y alertas en secuencia.
+
+Ejecutar:
+```bash
+py run_pipeline.py
+```
+
+Orden:
+
+ETL
+análisis IA
+alertas
+resumen final por consola
+
+La API debe estar corriendo antes de lanzar el pipeline.
+
+
+
+# Flujo recomendado
+1. Inicializar y sembrar datos
+```bash
+py init_db.py
+py seed.py
+```
+
+2. Levantar la API
+```bash
+py -m uvicorn src.api_source.app:app --host 127.0.0.1 --port 8081 --reload
+```
+
+3. Correr pipeline completo
+```bash
+py run_pipeline.py
+```
+4. Generar reporte
+```bash
+py run_report.py
+```

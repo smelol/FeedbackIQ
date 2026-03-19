@@ -25,13 +25,17 @@ def extract_json_text(text: str) -> str:
     return text
 
 
-def analyze_text(prompt: str) -> dict:
+def generate_text(prompt: str) -> str:
     response = client.responses.create(
-        model="gpt-4.1-mini",
+        model="gpt-4o-mini",
         input=prompt,
     )
 
-    text = response.output[0].content[0].text
+    return response.output[0].content[0].text.strip()
+
+
+def analyze_text(prompt: str) -> dict:
+    text = generate_text(prompt)
     cleaned_text = extract_json_text(text)
 
     try:
