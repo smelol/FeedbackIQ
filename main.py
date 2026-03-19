@@ -37,7 +37,27 @@ def show_analysis():
 
     conn.close()
 
+def show_alerts():
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        SELECT severity, location_id, rule_code, message, created_at
+        FROM alerts
+        ORDER BY created_at DESC
+        LIMIT 20
+    """)
+
+    rows = cursor.fetchall()
+
+    print("Alertas:")
+    for row in rows:
+        print(dict(row))
+
+    conn.close()
+
 
 if __name__ == "__main__":
-    show_tables()
-    show_analysis()
+    # show_tables()
+    # show_analysis()
+    show_alerts()
