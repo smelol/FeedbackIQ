@@ -56,6 +56,17 @@ def transform_survey_to_unified(survey_row):
         "created_at": survey_row["created_at"],
     }
 
+def transform_api_review_to_unified(api_review):
+    return {
+        "source": "api",
+        "source_review_id": str(api_review["review_id"]),
+        "location_id": api_review["location_id"],
+        "rating": api_review["rating"],
+        "text": clean_text(api_review["text"]),
+        "author": clean_text(api_review["author"]),
+        "created_at": api_review["created_at"],
+    }
+
 def clean_text(value):
     if value is None:
         return None
