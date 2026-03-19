@@ -113,3 +113,18 @@ py run_etl.py
 Ejecuta ambas fuentes.
 
 ---
+
+## Sentiment analysis
+
+(debe haber resenas en unified_reviews)
+(debe haber una clave de openAI en .env OPENAI_API_KEY)
+
+```bash
+py run_analysis.py
+```
+
+* toma (20 por defecto) reviews de unified_reviews
+* crea un prompt con cada review
+* ejecuta el modelo con cada prompt
+* verifica que el resultado sea valido
+* inserta resultado en review_analysis
