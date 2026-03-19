@@ -250,3 +250,12 @@ py run_pipeline.py
 ```bash
 py run_report.py
 ```
+
+## Pruebas
+
+El proyecto incluye pruebas unitarias con `pytest` para validar las partes críticas del sistema.
+
+### Ejecutar todas las pruebas
+
+```bash
+py -m pytest
